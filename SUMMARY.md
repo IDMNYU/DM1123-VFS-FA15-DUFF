@@ -2,5 +2,5 @@
 
 * Syllabus
 * syllabus
-* [Schedule] (dm1123_schedule_overview.md)
+* [Schedule](dm1123_schedule_overview.md)
 
