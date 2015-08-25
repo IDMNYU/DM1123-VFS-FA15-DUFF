@@ -2,9 +2,8 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-## Class Exercise: Composition and Concept
-
-* **POST TO WORDPRESS**
+### Class Exercise: Composition and Concept
+####POST TO WORDPRESS
 
 
 *  **Your Favorite Book Cover**
