@@ -1,14 +1,9 @@
-# DM-UY 1123 Visual Foundation Studio
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
-    Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-UY 1123 Visual Foundation Studio
+##### Fall 2015 • De Angela L. Duff • Tuesdays & Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-
-## SCHEDULE OVERVIEW
+# SCHEDULE OVERVIEW (THIS IS A DRAFT!!!)
+## This will be in draft form until we meet on the first day of class.
 
 *All dates and assignments are subject to change at the discretion of the professor! Github and basecamp are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
