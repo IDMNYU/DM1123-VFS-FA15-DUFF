@@ -1,10 +1,5 @@
 # DM-UY 1123 Visual Foundation Studio
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department
-
-    De Angela L. Duff • Fall 2014 • Tuesdays & Thursdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 • 3 credit hrs
-
+##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
 ## Class Exercise: Brands
