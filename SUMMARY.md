@@ -4,7 +4,6 @@
 * [Syllabus](dm1123_vfs_syllabus.md)
 * [Schedule](dm1123_schedule_overview.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [Interface Project](projects/dm1123_vfs_projects_interface.md)
 * [Logo Project](projects/dm1123_vfs_projects_logo.md)
 * [Physical Application Project](projects/dm1123_vfs_projects_pa.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
