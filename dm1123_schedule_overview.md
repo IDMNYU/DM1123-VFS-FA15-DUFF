@@ -26,27 +26,27 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><strong>Adobe Illustrator Demo</strong><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br><br></td>
         <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top">Sep 22<br><strong>Screening: Type</strong></td>
         <td valign="top">Sep 24<br><strong>Components: Composition &amp; Concept</strong></td>
     </tr>
     <tr>
         <td>5</td>
         <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 01<br><strong>LOGO 1st Draft (Group A)</strong></td>
+        <td>Oct 01<br><strong><i>NO CLASS</i></strong> (Professor is out of town; Dec. 11 is make up date)</i></td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group B)</strong></td>
-        <td>Oct 08<br><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></td>
+        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></td>
+        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 13<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
+        <td>Oct 13<br><strong>NO CLASS</strong> <i>(Legislative Day which means Monday classes will meet instead of Tuesday classes.)</i></td>
         <td>Oct 15<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
     </tr>
     <tr>
