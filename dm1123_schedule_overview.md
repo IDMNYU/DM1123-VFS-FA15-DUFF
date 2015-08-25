@@ -92,7 +92,13 @@
     <tr>
         <td>16</td>
         <td>Dec 15<br><strong>Last Day of Class</strong></td>
-        <td>Dec 15-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
-<strong>PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</strong></td>
+        <td></td>
     </tr>
 </table>
+
+Dec 16
+* NYU Reading Day (so neither classes nor exams will meet.)
+
+Dec 15-17<br>
+* **INDIVIDUAL ONE on ONES (To Be Scheduled)**
+* **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
