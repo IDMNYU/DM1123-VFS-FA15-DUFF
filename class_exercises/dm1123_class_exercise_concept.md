@@ -6,6 +6,7 @@
 
 * **POST TO WORDPRESS**
 
+
 *  **Your Favorite Book Cover**
     * Post a supporting image of your favorite book cover (novel, comic book, graphic novel, manga, etc.)
   * Briefly discuss why, in terms of its message andvisual form
