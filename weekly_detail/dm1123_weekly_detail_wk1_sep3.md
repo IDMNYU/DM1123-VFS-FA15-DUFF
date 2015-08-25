@@ -50,18 +50,18 @@
 
 <strong>Show &amp; Tell</strong>
 <ul>
-<li>Nicholas Felton - Collin &amp; Max</li>
+<li>Nicholas Felton - </li>
 </ul>
 
 <strong>Demos</strong>
 <ul>
-<li>[Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
+<li>[Wordpress](http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
 <li>Color</li>
-  <li>[Kuler] (https://kuler.adobe.com/explore)</li>
-  <li>[ColorHexa] (http://www.colorhexa.com)</li>
-  <li>[ColorZilla] (http://www.colorzilla.com)</li>
-  <li>[0to255] (http://0to255.com)</li>
-  <li>[Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
+  <li>[Kuler](https://kuler.adobe.com/explore)</li>
+  <li>[ColorHexa](http://www.colorhexa.com)</li>
+  <li>[ColorZilla](http://www.colorzilla.com)</li>
+  <li>[0to255](http://0to255.com)</li>
+  <li>[Color Meaning](http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
 <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
