@@ -91,7 +91,8 @@
     </tr>
     <tr>
         <td>16</td>
-        <td colspan="2">Dec 12-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
+        <td>Dec 15<br><strong>Last Day of Class</strong></td>
+        <td>Dec 15-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
 <strong>PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</strong></td>
     </tr>
 </table>
