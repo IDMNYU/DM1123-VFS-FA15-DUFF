@@ -2,7 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-## CLASS EXERCISE: FIRST DAY OF CLASS
+### CLASS EXERCISE: FIRST DAY OF CLASS
 
 #### CLASS EXERCISE: Your Learning Goals
 * Why am I in this class? Why have I chosen to be sitting here NOW? Is there some better place I could be? 
