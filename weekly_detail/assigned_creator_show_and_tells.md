@@ -4,7 +4,7 @@
 
 ## Creator Show & Tell Assignments
 
-**Peter Saville (music / punk aesthetic) - Shira & Melisa** - Oct 30
+
 
 Subject | Student | Date
 --- | --- | ---
@@ -20,3 +20,4 @@ Paula Scher (type & image) | | Sep
 Shepard Fairey (semiotics) |  | Oct 
 Saul Bass (for logos, not film titles) |  | Oct 
 Art Chantry (music / punk aesthetic) |  | Oct 
+Peter Saville (music / punk aesthetic) | Shira & Melisa | Oct
