@@ -5,6 +5,5 @@
 * [Schedule](dm1123_schedule_overview.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
-* [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 * [Tickets to Leave](projects/dm1123_vfs_tickets_to_leave.md)
 
