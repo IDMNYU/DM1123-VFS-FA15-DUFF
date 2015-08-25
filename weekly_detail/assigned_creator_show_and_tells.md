@@ -6,26 +6,17 @@
 
 **Peter Saville (music / punk aesthetic) - Shira & Melisa** - Oct 30
 
-Chip Kidd (book jackets) - Alice & Tasmiur - Oct 30
-
-Josef Muller-Brockman (composition / the grid) Collin & Indira - Sep 25
-
-~~Aleksander Rodchenko (composition & photography) - Avi & Naomi - Sep 16~~
-
-~~Andy Warhol (image) - Elanur & Alexis - Sep 16~~
-
-**Tibor Kalman (concept / image) - Michael Li & Aaron Sep 25**
-
-~~David Carson (type & image) - Melisa & Omayeli -  Sep 9~~
-
-~~Barbara Krueger (type & image) - Indira & Jenny - Sep 16~~
-
-Stefan Sagmeister (type & image) - Larysa & Wenqi - Sep 23
-
-Paula Scher (type & image) - Daric & Alexis Sep 23
-
-Shepard Fairey (semiotics) - Hillary & Kevin - Oct 2
-
-Saul Bass (for logos, not film titles) - Boyong & Hornby - Oct 2
-
-Art Chantry (music / punk aesthetic) - Shira & Larysa Oct 30
+Subject | Student | Date
+--- | --- | ---
+Chip Kidd (book jackets) | | 
+Josef Muller-Brockman (composition / the grid) |  | Sep
+Aleksander Rodchenko (composition & photography) | | Sep
+Andy Warhol (image) |  | Sep
+Tibor Kalman (concept / image) | | Sep
+David Carson (type & image) |  |  
+Barbara Krueger (type & image) |  | Sep
+Stefan Sagmeister (type & image) |  | Sep
+Paula Scher (type & image) | | Sep
+Shepard Fairey (semiotics) |  | Oct 
+Saul Bass (for logos, not film titles) |  | Oct 
+Art Chantry (music / punk aesthetic) |  | Oct 
