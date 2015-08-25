@@ -4,7 +4,8 @@
 * [Syllabus](dm1123_vfs_syllabus.md)
 * [Schedule](dm1123_schedule_overview.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-PROJECTS
+
+##PROJECTS
 * [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
 * [End of Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
 * [VFS Groups](projects/dm1123_vfs_groups.md)
