@@ -16,78 +16,78 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br><strong>Course and Student Introductions</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Overview of Course</strong></a></td>
+        <td>Sep 1<br></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 3<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sep 9<br><strong>Components: Color</strong></td>
-        <td>Sep 11<br><strong>Components: Type</strong></td>
+        <td>Sep 8<br><strong>Components: Color</strong></td>
+        <td>Sep 10<br><strong>Components: Type</strong></td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 16<br><strong>Adobe Illustrator Demo</strong><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td valign="top"Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
+        <td valign="top">Sep 15<br><strong>Adobe Illustrator Demo</strong><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 23<br><strong>Screening: Type</strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
-        <td valign="top">Sep 25<br><strong>Components: Composition &amp; Concept</strong></td>
+        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top">Sep 24<br><strong>Components: Composition &amp; Concept</strong></td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sep 30<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 02<br><strong>LOGO 1st Draft (Group A)</strong></td>
+        <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
+        <td>Oct 01<br><strong>LOGO 1st Draft (Group A)</strong></td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 07<br><strong>LOGO 1st Draft (Group B)</strong></td>
-        <td>Oct 09<br><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></td>
+        <td>Oct 06<br><strong>LOGO 1st Draft (Group B)</strong></td>
+        <td>Oct 08<br><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 14<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
-        <td>Oct 16<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
+        <td>Oct 13<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
+        <td>Oct 15<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 21<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
-        <td>Oct 23<br><strong>Screenings</strong></td>
+        <td>Oct 20<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
+        <td>Oct 22<br><strong>Screenings</strong></td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 28<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
-        <td valign="top">Oct 30<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></td>
+        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
+        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 4<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Group A)</strong></td>
-        <td>Nov 6<br><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Group A)</strong></td>
+        <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></td>
-        <td>Nov 13<br><strong>INTERFACE Wireframes 1st Draft</strong></strong></td>
+        <td>Nov 10<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></td>
+        <td>Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong></strong></td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 18<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
-        <td>Nov 20<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Nov 17<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
+        <td>Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
-        <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
+        <td>Nov 24<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
+        <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 4<br><strong>PDF or BOOK 1st DRAFT</strong></td>
+        <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
+        <td>Dec 3<br><strong>PDF or BOOK 1st DRAFT</strong></td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 9<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br><strong><i>Make Up Class for Oct. 9</i><br>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
+        <td>Dec 10<br><strong><i>Make Up Class for Oct. 9</i><br>PDF or BOOK 2nd DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
