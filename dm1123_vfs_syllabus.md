@@ -42,7 +42,7 @@ This course will reinforce or introduce students to:
 * Introduction to the 3 Cs of visual language: components, composition & concept
 * Increased visual awareness and vocabulary through research and observation
 * Increased competency in visually communicating ideas and meaning through practice and iteration
-* An introduction to Adobe Illustrator, Adobe InDesign, and Adobe Photoshop
+* An introduction to Adobe Illustrator, Adobe Photoshop, and Adobe InDesign
 
 
 ### LEARNING OUTCOMES
