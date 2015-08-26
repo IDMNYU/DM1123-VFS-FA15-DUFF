@@ -10,7 +10,7 @@
 
     Prerequisite: None
    
-####Gitbook:  
+####Gitbook: http://deangela.gitbooks.io/visual-foundation-studio/content  
 ####Course Management Site: http://bxmc.slack.com 
 
 # (THIS IS A DRAFT!!!)
