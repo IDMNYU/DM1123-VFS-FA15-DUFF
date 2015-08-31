@@ -54,9 +54,9 @@ Cover and spine label:
 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
-Each student will provide their own dropbox link. 
+Each student will provide their own dropbox link. A dropbox link is actually different than sharing an actual dropbox folder.
 
-Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) A dropbox link is actually different than sharing an actual dropbox folder.
+Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
 Create a dropbox link with the following contents:
 
@@ -82,7 +82,7 @@ Make sure that images are included if they are not embedded within illustrator.
 
 #### FINAL SELF ASSESSMENT
 
-*Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.*
+*As a pdf, direct message to deangela on Slack.*
 
 Of Self
 
@@ -109,6 +109,6 @@ Of The Course
 
 #### Letter to Next Cohort
 
-*Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.*
+*As a pdf, direct message to deangela on Slack.*
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
