@@ -2,9 +2,9 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-## END OF SEMESTER DELIVERABLES
+# END OF SEMESTER DELIVERABLES
 
-#### END OF SEMESTER PDF
+## END OF SEMESTER PDF
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
 PDF Cover:
@@ -34,7 +34,7 @@ FILE > CREATE > COMBINE INTO A SINGLE PDF
 or using Preview (Drag and Drop with thumbnail panel)
 
 
-#### (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
+## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
 
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
@@ -50,7 +50,7 @@ Cover and spine label:
 * The Name of Your Project
 * Visual Foundation Studio 2014 or VFS 2014
 
-#### END OF SEMESTER DROPBOX LINK REQUIREMENTS  
+## END OF SEMESTER DROPBOX LINK REQUIREMENTS  
 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
@@ -80,7 +80,7 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
-#### FINAL SELF ASSESSMENT
+## FINAL SELF ASSESSMENT
 
 *As a pdf, direct message to deangela on Slack.*
 
@@ -107,7 +107,7 @@ Of The Course
   * Graphic Design: The New Basics
   * Type On Screen
 
-#### Letter to Next Cohort
+## LETTER TO NEXT COHORT
 
 *As a pdf, direct message to deangela on Slack.*
 
