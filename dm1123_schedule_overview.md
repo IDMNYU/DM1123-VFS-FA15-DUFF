@@ -5,7 +5,7 @@
 # SCHEDULE OVERVIEW (THIS IS A DRAFT!!!)
 ## This will be in draft form until we meet on the first day of class.
 
-*All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
+*All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.
 
 *Gitbook /Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack and in person during class.***
 <table>
