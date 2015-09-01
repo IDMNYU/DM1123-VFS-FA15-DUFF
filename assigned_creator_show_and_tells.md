@@ -6,7 +6,7 @@
 
 Subject | Team | Date
 --- | --- | ---
-Chip Kidd (book jackets) | | 
+Chip Kidd (book jackets) | | Sep
 Josef Muller-Brockman (composition / the grid) |  | Sep
 Aleksander Rodchenko (composition & photography) | | Sep
 Andy Warhol (image) |  | Sep
