@@ -3,9 +3,7 @@
 ---
 
 
-## SELF ASSESSMENTS & LETTER TO NEXT COHORT
-
-#### MIDTERM SELF ASSESSMENT  
+# MIDTERM SELF ASSESSMENT  
 
 Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
 
