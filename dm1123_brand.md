@@ -4,10 +4,10 @@
 
 ### Class Exercise: Brands
 
-* Post to wordpress
+* Post to wordpress.
 
-* List your favorite brand and discuss why in terms of its message and/or visual form
+* List your favorite brand and discuss why in terms of its message and/or visual form.
 
-* Post a supporting image of your favorite brand which also showcases their logo
+* Post a supporting image of your favorite brand which also showcases their logo.
 
 
