@@ -39,7 +39,7 @@
     <li>VFS Knowledge Survey</li>
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
-    <li>Review class exercise: Color</li>
+    <li>Review assignment: Color</li>
     <li><a href="dm1123_typefaces.md" target="_blank">Review class exercise: Typefaces</a></li>
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
