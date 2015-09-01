@@ -27,15 +27,9 @@
   <td valign="top">class</td>
   <td valign="top" width="48%"><strong>COMPONENTS: COLOR</strong>
   <ul>
-  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: David Carson and Nicolas Felton</li>
+  <li><a href="dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: David Carson and Nicolas Felton</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
-  <li>Final Syllabus on <a href="../dm1123_vfs_syllabus.md" target="_blank">Github</a> (Decided not to print to save trees)
-    <ul>
-    <li><a href="http://gitprint.com" target="_blank">http://gitprint.com</a></li>
-    </ul>
-  <li>Discuss why the reading Learning (Your First Job) was assigned</li>
-  <li>Respond to selected tickets to leave
-  <li>BxMC URLs Rollcall
+ 
   <li>Demo: Wordpress continued</li>
   <li>Quiz</li>
   </ul>
@@ -46,10 +40,9 @@
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
     <li>Review class exercise: Color</li>
-    <li><a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">Review class exercise: Typefaces</a></li>
+    <li><a href="dm1123_typefaces.md" target="_blank">Review class exercise: Typefaces</a></li>
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
 </tr>
