@@ -7,7 +7,6 @@
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Groups](dm1123_vfs_groups.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 * [Project: Logo](dm1123vfs_projects_logo.md)
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
@@ -20,5 +19,6 @@
 * [Assignment: Image](dm1123_image.md)
 * [Assignment: Typefaces](dm1123_typefaces.md)
 * [Assignment: Composition and Concept](dm3193_composition_and_concept.md)
+* [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 
