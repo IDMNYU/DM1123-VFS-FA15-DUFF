@@ -1,8 +1,8 @@
-# DM-UY 1123 Visual Foundation Studio
+## DM-UY 1123 Visual Foundation Studio
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-### Class Exercise: Images
+# Assignment: Images
 **Post to wordpress, the following**
 
 * an image that illustrates the concept of **symmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
