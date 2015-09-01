@@ -2,7 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-## IDM COURSEWORK DOCUMENTATION
+# IDM COURSEWORK DOCUMENTATION
 
 * Set up your class website using wordpress at http://sites.bxmc.poly.edu/~yourfirstnamelastname/vfs
 * Add your blog URL to slack in the VFS channel.
