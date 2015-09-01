@@ -23,7 +23,7 @@
   <ul>
   <li>Creator Show &amp; Tells due: David Carson and Nicolas Felton</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
- 
+ <li>Review assignment: Color</li>
   <li>Demo: Wordpress continued</li>
   <li>Quiz</li>
   </ul>
@@ -33,7 +33,7 @@
     
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
-    <li>Review assignment: Color</li>
+    
     <li>Review assignment: Typefaces</li>
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
