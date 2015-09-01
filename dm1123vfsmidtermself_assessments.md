@@ -3,9 +3,9 @@
 ---
 
 
-# MIDTERM SELF ASSESSMENT  
+# MIDTERM SELF-ASSESSMENT  
 
-Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+*As a pdf, direct message to deangela on Slack.*
 
 Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 * What are you learning? 
