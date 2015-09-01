@@ -30,7 +30,7 @@
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
     <ul>
-    <li>VFS Knowledge Survey</li>
+    
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
     <li>Review assignment: Color</li>
