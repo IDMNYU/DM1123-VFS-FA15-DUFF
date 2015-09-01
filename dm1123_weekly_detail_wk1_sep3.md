@@ -56,19 +56,6 @@
 <li><a href="dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
 </ul></td>
 </tr>
-<tr>
-  <td>read</td>
-  <td></td>
-  <td>Post a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for the PDF, Learning (Your First Job) by Leamnson, which is located on basecamp under the Files tab.</td> 
-</tr>
-<tr>
-  <td>do</td>
-  <td></td> 
-  <td>
-  <ul>
-   
-  </ul></td>
-</tr>
 </table>
 
 
