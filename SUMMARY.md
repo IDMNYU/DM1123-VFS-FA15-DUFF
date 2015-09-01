@@ -11,7 +11,6 @@
 * [Project: Interface](dm1123vfs_projects_interface.md)
 * [Reading Responses](dm1123vfs_reading_responses.md)
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
-* [Tickets to Leave](dm1123vfs_tickets_to_leave.md)
 * [Assignment: Brand](dm1123_brand.md)
 * [Assignment: Color](dm1123_color.md)
 * [Assignment: Concept](dm1123_concept.md)
