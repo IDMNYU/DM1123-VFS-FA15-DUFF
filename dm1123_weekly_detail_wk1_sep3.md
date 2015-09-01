@@ -44,7 +44,7 @@
 
 <strong>Demos</strong>
 <ul>
-<li>[Wordpress](http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
+<li><a href="http://wordpress.org">Wordpress</a> Overview (pages vs. posts, categories, menu)</li>
 <li>Color</li>
   <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
   <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
