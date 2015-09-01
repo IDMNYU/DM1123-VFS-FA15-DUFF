@@ -27,7 +27,7 @@
   <td valign="top">class</td>
   <td valign="top" width="48%"><strong>COMPONENTS: COLOR</strong>
   <ul>
-  <li><a href="dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: David Carson and Nicolas Felton</li>
+  <li><a href="dm1123vfs_show_and_tells.md">Show &amp; Tells</a> due: David Carson and Nicolas Felton</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
  
   <li>Demo: Wordpress continued</li>
