@@ -12,6 +12,6 @@
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
 * [Reading Responses](dm1123vfs_reading_responses.md)
-* [Midterm Self Assessment](dm1123vfsmidterm_self_assessments_md.md)
+* [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Tickets to Leave](dm1123vfs_tickets_to_leave.md)
 
