@@ -3,7 +3,7 @@
 ---
 
 
-## READING RESPONSES
+# READING RESPONSES
 
 * Post to Slack
 * Include title of article as title of your post.
