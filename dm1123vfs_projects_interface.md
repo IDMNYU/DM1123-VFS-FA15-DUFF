@@ -3,7 +3,7 @@
 ---
 
 
-## PROJECT: INTERFACE
+# PROJECT: INTERFACE
 Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
 #### INTERFACE Wireframes    
