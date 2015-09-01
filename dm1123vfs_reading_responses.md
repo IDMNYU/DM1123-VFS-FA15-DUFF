@@ -5,8 +5,8 @@
 
 ## READING RESPONSES
 
-* Post to basecamp with the category of Reading Response
-* Include title and author as subject
+* Post to Slack
+* Include title of article as title of your post.
 
 Answer the following questions:
 * The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.
@@ -15,4 +15,4 @@ Answer the following questions:
  
 For learning (your first job), an additional requirement:
 * Based on the article and your own experience, create 10 commandments for success in a project-based course
-* 
+
