@@ -3,7 +3,7 @@
 ---
 
 
-## PROJECT: LOGO
+# PROJECT: LOGO
 Create a logo for your selected brand in Adobe Illustrator.
 * Select a brand that is personal to you in some way. 
 * It could be your own, a friend’s, or a family member’s. 
