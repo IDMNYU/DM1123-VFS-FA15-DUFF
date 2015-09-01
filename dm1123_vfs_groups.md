@@ -3,7 +3,7 @@
 ---
 
 
-## GROUPS
+# GROUPS
 
 **Group A**
 
