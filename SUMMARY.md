@@ -14,7 +14,6 @@
 * [Reading Responses](dm1123vfs_reading_responses.md)
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Tickets to Leave](dm1123vfs_tickets_to_leave.md)
-* [Assignment: First Day](dm1123_first_day.md)
 * [Assignment: Brand](dm1123_brand.md)
 * [Assignment: Color](dm1123_color.md)
 * [Assignment: Concept](dm1123_concept.md)
