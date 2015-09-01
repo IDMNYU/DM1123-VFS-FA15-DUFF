@@ -19,7 +19,7 @@ Post on your class website in grayscale (includes black and white) with interfac
 
 #### INTERFACE Final: High-Fidelity Prototype 
 * Refine selection
-* Post a clickable prototype on your class website with an inteface-final category (or on basecamp. If you post on basecamp, link to your basecamp message from wordpress).
+* Post a clickable prototype on your class website with an inteface-final category. 
   * Consult the readings and/or VFS <a href="../dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
 
 
