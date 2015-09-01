@@ -40,25 +40,20 @@
 <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<strong>Discuss Reading Responses</strong>
-<ul>
-<li>Learning (Your First Job) by Leamnson</li>
-</ul>
-
-
+<strong>VFS Knowledge Survey</strong>
 
 <strong>Demos</strong>
 <ul>
 <li>[Wordpress](http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
 <li>Color</li>
-  <li>[Kuler](https://kuler.adobe.com/explore)</li>
-  <li>[ColorHexa](http://www.colorhexa.com)</li>
-  <li>[ColorZilla](http://www.colorzilla.com)</li>
-  <li>[0to255](http://0to255.com)</li>
-  <li>[Color Meaning](http://color-wheel-pro.com/color-meaning.html)</li>
+  <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
+  <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
+  <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
+  <li><a href="http://0to255.com" target="_blank">0to255</a></li>
+  <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
  </ul>
 
-<li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+<li><a href="dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
 </ul></td>
 </tr>
 <tr>
