@@ -19,9 +19,7 @@
 <td valign="top"></td>
 <td valign="top">
 <strong>Course and Student Introductions</strong><br>
-<ul>
-<Li><a href="../class_exercises/dm1123_class_exercise_first_day.md">Class Exercises: First Day of Class</a></li>
-</ul>
+
 <strong>Overview of Course</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
@@ -32,7 +30,6 @@
 </ul>
 </ul>
 
-<strong>Discuss Homework</strong><br><br>
 
 <strong>Why is this class important?</strong>
 <ul>
@@ -48,10 +45,7 @@
 <li>Learning (Your First Job) by Leamnson</li>
 </ul>
 
-<strong>Show &amp; Tell</strong>
-<ul>
-<li>Nicholas Felton - </li>
-</ul>
+
 
 <strong>Demos</strong>
 <ul>
