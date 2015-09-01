@@ -40,7 +40,7 @@
 <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<strong>VFS Knowledge Survey</strong>
+<strong>VFS Knowledge Survey</strong><br><br>
 
 <strong>Demos</strong>
 <ul>
@@ -66,8 +66,7 @@
   <td></td> 
   <td>
   <ul>
-   <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
+   
   </ul></td>
 </tr>
 </table>
