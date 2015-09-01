@@ -7,7 +7,7 @@
 * [Groups](dm1123_vfs_groups.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 * [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
-* [IDM Coursework Documentation](dm1123_idm_coursework_documentation.md)
+* [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Project: Logo](dm1123_vfs_projects_logo.md)
 * [Project: Physical Application](dm1123_vfs_projects_pa.md)
 * [Project: Interface](dm1123_vfs_projects_interface.md)
