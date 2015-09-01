@@ -19,6 +19,6 @@
 * [Assignment: Concept](dm1123_concept.md)
 * [Assignment: Image](dm1123_image.md)
 * [Assignment: Typefaces](dm1123_typefaces.md)
-* [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Assignment: Composition and Concept](dm3193_composition_and_concept.md)
+* [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 
