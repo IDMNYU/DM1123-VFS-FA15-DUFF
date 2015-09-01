@@ -44,7 +44,7 @@
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
-  <td><strong><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a></strong>
+  <td><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
     <ul> 
     <li>What is leading?
     <li>What is kerning?
