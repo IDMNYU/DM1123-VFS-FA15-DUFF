@@ -2,10 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-
-## SHOW & TELLS
-
-#### LOGO SHOW & TELLS
+### LOGO SHOW & TELLS
 
 * Pair up w/ 1 classmate 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
