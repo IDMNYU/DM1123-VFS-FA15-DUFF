@@ -2,7 +2,7 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Thursdays • 4:30-6:20pm • 2MTC MAGNET 811 
 ---
 
-### Creator Show & Tell Assignments
+### CREATOR SHOW & TELL Assignments
 
 Subject | Team | Date
 --- | --- | ---
@@ -21,25 +21,11 @@ Art Chantry (music / punk aesthetic) |  | Oct
 Peter Saville (music / punk aesthetic) |  | Oct
 
 
-#### CREATOR SHOW & TELLS
+#### CREATOR SHOW & TELLS Directions
 * Pair up w/ 1 classmate
-* Select an artist, designer, or collective from the list below.
-* Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on basecamp.
+* Select an artist, designer, or collective from the list above.
+* Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on gitbook.
 * Check out at least one book from the NYU library (or library of your choice) which contains images of the work of your chosen artist, designer, or collective, and bring it to class. 
 * Each team member should bring in at least 3 or more digitized examples of the work of your chosen artist, designer, or collective for a total of at least 6 images.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class. 
 
-**Artists, Designers & Collectives:**
-* Peter Saville (music / punk aesthetic)
-* Chip Kidd (book jackets) 
-* Josef Muller-Brockman (composition)
-* Aleksander Rodchenko (composition & photography)
-* Andy Warhol (image)
-* Tibor Kalman (image)
-* David Carson (type & image)
-* Barbara Krueger (type & image)
-* Stefan Sagmeister (type & image)
-* Paula Scher (type & image)
-* Shepard Fairey (semiotics)
-* Saul Bass (for logos, not film titles)
-* Nicholas Felton (data visualization)
