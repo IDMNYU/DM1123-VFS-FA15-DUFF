@@ -19,7 +19,7 @@
 <!-- class -->
 <tr>
   <td valign="top">class</td>
-  <td valign="top" width="48%"><strong>COMPONENTS: COLOR</strong>
+  <td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN<BR>COMPONENTS: COLOR</strong>
   <ul>
   <li>Creator Show &amp; Tells due: 
   <ul>
