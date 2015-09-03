@@ -204,7 +204,7 @@ See appendices for all of the following:
 
 #### Assignments
 * [Reading Responses](dm1123vfs_reading_responses.md)
-* [Self Assessments and Letter to Next Cohort](projects/dm1123_vfs_self_assessments.md)
+* [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Tickets to Leave](projects/dm1123_vfs_tickets_to_leave.md)
