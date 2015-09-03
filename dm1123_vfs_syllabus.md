@@ -195,7 +195,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 See appendices for all of the following:
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
-* [End of Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
+* [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 
 #### Projects
 * [Logo Project](dm1123vfs_projects_logo.md)
