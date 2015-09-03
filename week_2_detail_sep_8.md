@@ -66,8 +66,8 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
-  <li>Get setup with <a href="../dm1123idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li>Do <a href="../dm1123_color.md">Assignment: Color</a></li>
+  <li>Get setup with <a href="dm1123idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+  <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
@@ -76,7 +76,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p>Do <a href="../dm1123_typefaces.md">Assignment: Typefaces</a> as homework instead.</p>
+  <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 
 </tr>
