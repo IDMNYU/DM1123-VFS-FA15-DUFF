@@ -50,7 +50,7 @@
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
-  <li></li>
+  <li>Color</li>
   </ul>
   </td>
   
