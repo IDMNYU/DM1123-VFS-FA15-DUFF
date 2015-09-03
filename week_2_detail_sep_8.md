@@ -26,7 +26,7 @@
   <li>David Carson (Spencer & Dylan)</li>
   <li>Nicolas Felton (Fannie & Tiffany L.)</li>
   </ul></li>
-  <li>Assign remaining creator Show &amp; Tells as extra credit
+  <li>Assign remaining creator Show &amp; Tells</li>
   <Li>Review Assignment: Good & Bad</li>
   <li>Review assignment: Color</li>
   <li>Demo: Wordpress continued</li>
