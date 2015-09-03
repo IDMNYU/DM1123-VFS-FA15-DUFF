@@ -209,5 +209,5 @@ See appendices for all of the following:
 * [Tickets to Leave](projects/dm1123_vfs_tickets_to_leave.md)
 
 
-### [SCHEDULE OVERVIEW GRID](dm1123_vfs_schedule_overview.md)
+### [SCHEDULE OVERVIEW GRID](dm1123_schedule_overview.md)
 See Appendix
