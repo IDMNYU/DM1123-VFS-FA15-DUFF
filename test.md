@@ -25,7 +25,7 @@
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Syllabus</li>
 <ul>
- <li>Any requests, questions, errors?</li>
+ <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
 </ul>
 </ul>
