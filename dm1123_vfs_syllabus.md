@@ -207,7 +207,7 @@ See appendices for all of the following:
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Reading Responses](dm1123vfs_reading_responses.md)
-* [Tickets to Leave](tickets_to_leave.md)
+* [Tickets to Leave](projects/dm1123_vfs_tickets_to_leave.md)
 
 
 ### [SCHEDULE OVERVIEW GRID](dm1123_schedule_overview.md)
