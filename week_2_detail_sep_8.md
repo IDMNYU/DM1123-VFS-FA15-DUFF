@@ -74,8 +74,13 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
-  <li>Get setup with <a href="dm1123idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li>Post your wordpress or tumblr URL to the vfs_2015 slack channel</li>
+  <li>Get setup with a website to post your homework</li>
+  <ul>
+  <li><a href="dm1123idm_coursework_documentation.md">wordpress via sites.bxmc.poly.edu</a> in a directory labeled vfs</li> 
+  <li>If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs</li>
+  <li>Alternatively create a vfs directory if you have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.</li>
+  </ul>
+  <li>Post your wordpress or tumblr URL to the vfs_fa15 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
@@ -86,7 +91,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a> as homework instead.</p>
+  <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a> as homework.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 
 </tr>
