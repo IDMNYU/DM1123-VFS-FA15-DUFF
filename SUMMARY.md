@@ -14,6 +14,7 @@
 * [Reading Responses](dm1123vfs_reading_responses.md)
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Assignment: Brand](dm1123_brand.md)
+* [Assignment: Good vs. Bad](assignment_good_vs_bad.md)
 * [Assignment: Color](dm1123_color.md)
    * [Assignment: Good vs. Bad](assignment_good_vs_bad.md)
 * [Assignment: Concept](dm1123_concept.md)
