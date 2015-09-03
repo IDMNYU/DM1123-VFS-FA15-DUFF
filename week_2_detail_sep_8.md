@@ -21,7 +21,11 @@
   <td valign="top">class</td>
   <td valign="top" width="48%"><strong>COMPONENTS: COLOR</strong>
   <ul>
-  <li>Creator Show &amp; Tells due: David Carson and Nicolas Felton</li>
+  <li>Creator Show &amp; Tells due: 
+  <ul>
+  <li>David Carson</li>
+  <li>Nicolas Felton</li>
+  </ul></li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <Li>Review Assignment: Good & Bad</li>
  <li>Review assignment: Color</li>
@@ -44,6 +48,10 @@
 <tr>
   <td valign="top">read</td>
   <td>
+  <strong>Graphic Design The New Basics</strong>
+  <ul>
+  <li></li>
+  </ul>
   </td>
   
   <td valign="top"><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
