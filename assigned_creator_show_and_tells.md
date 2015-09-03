@@ -4,9 +4,7 @@
 # CREATOR SHOW & TELLS
 ### CREATOR SHOW & TELL Assignments
 
-<li>David Carson ()</li>
-  <li>Nicolas Felton ()</li>
-  
+
 Subject | Team | Date
 --- | --- | ---
 Nicolas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
