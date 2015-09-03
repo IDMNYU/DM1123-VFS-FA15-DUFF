@@ -53,7 +53,7 @@
   <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
  </ul>
 
-<li><a href="vfs_tickets_to_leave.md">Ticket to leave</a></li>
+<li><a href="tickets_to_leave.md">Ticket to leave</a></li>
 </ul></td>
 </tr>
 </table>
