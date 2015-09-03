@@ -26,13 +26,12 @@
   <Li>Review Assignment: Good & Bad</li>
  <li>Review assignment: Color</li>
   <li>Demo: Wordpress continued</li>
-  <li>Quiz</li>
+ 
   </ul>
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
     <ul>
-    
-    <li>Review Quiz</li>
+
     <li>Review reading (Type vs. Typeface vs. Font)</li>
     <li>Review assignment: Typefaces</li>
     <li>Demo: Adobe Illustrator</li>
