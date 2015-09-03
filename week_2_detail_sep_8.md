@@ -23,6 +23,7 @@
   <ul>
   <li>Creator Show &amp; Tells due: David Carson and Nicolas Felton</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
+  <Li>Review Assignment: Good & Bad</li>
  <li>Review assignment: Color</li>
   <li>Demo: Wordpress continued</li>
   <li>Quiz</li>
