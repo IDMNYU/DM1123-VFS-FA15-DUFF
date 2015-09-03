@@ -5,7 +5,7 @@
 # Assignment: Good vs. Bad
 
 * **Post to wordpress**
-* 
+
 * Using your smartphone or a camera, take 5 images of what you consider "good" design and take 5 images of what you consider "bad" design. Discuss why you consider it good or bad.
 
 
