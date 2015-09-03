@@ -2,8 +2,6 @@
 ##### Fall 2015 • De Angela L. Duff • Tuesdays & Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
-# SCHEDULE OVERVIEW (THIS IS A DRAFT!!!)
-## This will be in draft form until we meet on the first day of class.
 
 *All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.
 
