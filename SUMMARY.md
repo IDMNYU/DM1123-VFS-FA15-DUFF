@@ -16,7 +16,6 @@
 * [Assignment: Brand](dm1123_brand.md)
 * [Assignment: Good vs. Bad](assignment_good_vs_bad.md)
 * [Assignment: Color](dm1123_color.md)
-   * [Assignment: Good vs. Bad](assignment_good_vs_bad.md)
 * [Assignment: Concept](dm1123_concept.md)
 * [Assignment: Image](dm1123_image.md)
 * [Assignment: Typefaces](dm1123_typefaces.md)
