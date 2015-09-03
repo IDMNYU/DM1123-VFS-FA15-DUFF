@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
 * [Schedule](dm1123_schedule_overview.md)
-* [Week 1 Detail](dm1123_weekly_detail_wk1_sep3.md)
+* [Week 1 Detail Sep 3](dm1123_weekly_detail_wk1_sep3.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Groups](dm1123_vfs_groups.md)
