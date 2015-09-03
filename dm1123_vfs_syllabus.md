@@ -173,14 +173,14 @@ These books (*) are available for purchase in the NYU bookstore, and will be on 
 
 * Graphic Design: The New Basics by Ellen Lupton*#
 * Type On Screen by Ellen Lupton*
-* Typographic Systems
+
 
 ### REQUIRED SOFTWARE
 
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe Indesign
-* Adobe Acrobat
+
 
 ### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
 See Appendix
