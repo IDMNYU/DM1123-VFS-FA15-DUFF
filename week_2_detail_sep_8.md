@@ -34,7 +34,6 @@
     
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
-    
     <li>Review assignment: Typefaces</li>
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
@@ -68,6 +67,7 @@
   <td valign="top">
   <ul>
   <li>Get setup with <a href="dm1123idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+  <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
