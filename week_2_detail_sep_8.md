@@ -23,7 +23,7 @@
   <ul>
   <li>Creator Show &amp; Tells due: 
   <ul>
-  <li>David Carson</li>
+  <li>David Carson (Spencer & Dylan)</li>
   <li>Nicolas Felton</li>
   </ul></li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
