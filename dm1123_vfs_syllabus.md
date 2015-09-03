@@ -203,7 +203,6 @@ See appendices for all of the following:
 * [Physical Application Project](dm1123vfs_projects_pa.md)
 
 #### Assignments
-
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
