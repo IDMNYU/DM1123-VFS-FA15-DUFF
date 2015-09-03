@@ -22,5 +22,5 @@
 * [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-   * Tickets to Leave
+   * [Tickets to Leave](tickets_to_leave.md)
 
