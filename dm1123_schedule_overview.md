@@ -21,8 +21,8 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep8.md">Sep 8<br><strong>Components: Color</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep8.md">Sep 10<br><strong>Components: Type</strong></a></td>
+        <td><a href="week_2_detail_sep_8.md">Sep 8<br><strong>Components: Color</strong></a></td>
+        <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a></td>
     </tr>
     <tr>
         <td>3</td>
