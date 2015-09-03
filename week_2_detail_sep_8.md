@@ -91,7 +91,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a> as homework.</p>
+  <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a></p>
   <strong>Do Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 
 </tr>
