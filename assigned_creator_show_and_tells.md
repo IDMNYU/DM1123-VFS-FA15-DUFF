@@ -6,6 +6,7 @@
 
 Subject | Team | Date
 --- | --- | ---
+Nicolas Felton (data visualization) | | Sep
 Chip Kidd (book jackets) | | Sep
 Josef Muller-Brockman (composition / the grid) |  | Sep
 Aleksander Rodchenko (composition & photography) | | Sep
