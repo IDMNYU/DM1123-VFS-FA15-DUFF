@@ -4,7 +4,7 @@
 
 # Assignment: Color
 
-* **Post to wordpress, an image or illustration which contains your favorite color palette (images.google.com)**
+* **Post to wordpress or tumblr, an image or illustration which contains your favorite color palette (images.google.com)**
 
 
 * **Discuss the image’s color context, also known as value & intensity**
