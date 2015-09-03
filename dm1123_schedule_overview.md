@@ -37,7 +37,7 @@
     <tr>
         <td>5</td>
         <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 01<br><strong><i>NO CLASS</i></strong> (Professor is out of town; Dec. 11 is make up date)</i></td>
+        <td>Oct 01<br><strong><i>NO CLASS</i></strong> (Professor is out of town)</i></td>
     </tr>
     <tr>
         <td>6</td>
@@ -87,7 +87,7 @@
     <tr>
         <td>15</td>
         <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 9</i><br>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 10<br><strong>PDF or BOOK 2nd DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
