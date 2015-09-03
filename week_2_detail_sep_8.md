@@ -24,7 +24,7 @@
   <li>Creator Show &amp; Tells due: 
   <ul>
   <li>David Carson (Spencer & Dylan)</li>
-  <li>Nicolas Felton</li>
+  <li>Nicolas Felton (Fannie & Tiffany L.)</li>
   </ul></li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <Li>Review Assignment: Good & Bad</li>
