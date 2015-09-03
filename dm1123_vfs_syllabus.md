@@ -101,8 +101,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% class exercises and tickets to leave
-* 15% homework assignments
+* 15% assignments and tickets to leave
 * 10% midterm (final logo)
 * 10% final interface 
 * 10% final physical application
@@ -110,10 +109,10 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% end of semester dropbox folder
 * 5% IDM coursework documentation on sites.bxmc.poly.edu
 * 5% reading responses
-* 2.5% logo show and tell
-* 2.5% creator show and tell
-* 2.5% midterm (final logo) self assessment and rubric
-* 2.5% letter to next cohort, final self assessment and rubric
+* 5% logo show and tell
+* 5% creator show and tell
+* 5% midterm (final logo) self assessment and rubric
+* 5% letter to next cohort, final self assessment and rubric
 
 
 ##### Qualitative Grading Overview
