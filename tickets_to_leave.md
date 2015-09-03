@@ -3,7 +3,7 @@
 ---
 
 
-## TICKETS TO LEAVE
+## TICKET TO LEAVE
 
 When asked, direct message deangela on slack, and answer 1 or both of the following questions:
 * What are the three most important points you learned today in class? )
