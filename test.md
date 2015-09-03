@@ -27,6 +27,7 @@
 <ul>
  <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
+ <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 </ul>
 
@@ -37,7 +38,7 @@
 <li>Visual communication does make a difference and it communicates.</li>
 <li>It is way more than about making something "look pretty."</li>
 <li>It's about clarity, meaning, and emotion.</li>
-<li>Discuss course &amp; learning objectives in syllabus</li>
+
 </ul>
 
 <strong>VFS Knowledge Survey</strong><br><br>
