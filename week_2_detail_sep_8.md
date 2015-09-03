@@ -75,6 +75,7 @@
   <td valign="top">
   <ul>
   <li>Get setup with <a href="dm1123idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+  <li>Post your wordpress or tumblr URL to the vfs_2015 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
