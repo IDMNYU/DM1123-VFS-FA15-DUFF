@@ -16,7 +16,6 @@ Josef Muller-Brockman (composition / the grid) |  | Sep
 Aleksander Rodchenko (composition & photography) | | Sep
 Andy Warhol (image) |  | Sep
 Tibor Kalman (concept / image) | | Sep
-
 Barbara Krueger (type & image) |  | Sep
 Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep
 Paula Scher (type & image) | | Sep
