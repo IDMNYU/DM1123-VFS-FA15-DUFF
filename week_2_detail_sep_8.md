@@ -43,7 +43,10 @@
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
-  <td><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
+  <td>
+  </td>
+  
+  <td valign="top"><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
     <ul> 
     <li>What is leading?
     <li>What is kerning?
@@ -55,9 +58,7 @@
     <ul>
     <li>01: Fonts On Screen
     </li>
-  </td>
-  
-  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+    </ul></td>
 </tr>
 
 <!-- do -->
