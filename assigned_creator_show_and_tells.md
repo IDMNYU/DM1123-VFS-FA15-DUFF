@@ -4,15 +4,19 @@
 # CREATOR SHOW & TELLS
 ### CREATOR SHOW & TELL Assignments
 
+<li>David Carson ()</li>
+  <li>Nicolas Felton ()</li>
+  
 Subject | Team | Date
 --- | --- | ---
-Nicolas Felton (data visualization) | | Sep
+Nicolas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
+David Carson (type & image) | Spencer & Dylan |  Sep 8
 Chip Kidd (book jackets) | | Sep
-Josef Muller-Brockman (composition / the grid) |  | Sep
+Josef Muller-Brockman (composition / the grid) |  | Sep 
 Aleksander Rodchenko (composition & photography) | | Sep
 Andy Warhol (image) |  | Sep
 Tibor Kalman (concept / image) | | Sep
-David Carson (type & image) |  |  Sep
+
 Barbara Krueger (type & image) |  | Sep
 Stefan Sagmeister (type & image) |  | Sep
 Paula Scher (type & image) | | Sep
