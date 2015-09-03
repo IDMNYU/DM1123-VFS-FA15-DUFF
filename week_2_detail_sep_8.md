@@ -28,7 +28,7 @@
   </ul></li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <Li>Review Assignment: Good & Bad</li>
- <li>Review assignment: Color</li>
+  <li>Review assignment: Color</li>
   <li>Demo: Wordpress continued</li>
  
   </ul>
