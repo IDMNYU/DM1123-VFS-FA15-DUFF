@@ -198,12 +198,12 @@ See appendices for all of the following:
 * [End of Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
 
 #### Projects
-* [Logo Project](projects/dm1123_vfs_projects_logo.md)
-* [Interface Project](projects/dm1123_vfs_projects_interface.md)
-* [Physical Application Project](projects/dm1123_vfs_projects_pa.md)
+* [Logo Project](dm1123vfs_projects_logo.md)
+* [Interface Project](dm1123vfs_projects_interface.md)
+* [Physical Application Project](dm1123vfs_projects_pa.md)
 
 #### Assignments
-* [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* [Reading Responses](dm1123vfs_reading_responses.md)
 * [Self Assessments and Letter to Next Cohort](projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 * [Tickets to Leave](projects/dm1123_vfs_tickets_to_leave.md)
