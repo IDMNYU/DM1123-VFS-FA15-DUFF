@@ -75,9 +75,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
-* Email contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not email long conversations. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-* Do not use basecamp to send personal messages
+* Direct message me on slack re: contact about logistics (when, where, how many?) only
+* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
 * Be creative
