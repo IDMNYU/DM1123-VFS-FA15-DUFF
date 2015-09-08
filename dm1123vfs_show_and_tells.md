@@ -15,7 +15,7 @@
 * Cite your sources.
 * Decide whether or not you want to mirror your presentation or not (if you're using presentation tools)
   * Get familiar with your display preferences
-* If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**
+* If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**.
 
 
 
