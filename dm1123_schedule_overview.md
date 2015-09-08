@@ -20,12 +20,12 @@
     <tr>
         <td>2</td>
         <td><a href="week_2_detail_sep_8.md">Sep 8<br><strong>Components: Color</strong><br>Show & Tells: David Carson & Nicholas Felton</a></td>
-        <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a><br><strong>Screening: Type</strong></td>
+        <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a><br>Screening: Type</td>
     </tr>
     <tr>
         <td>3</td>
         <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show and Tells: Stefan Sagmeister and Paula Scher</td>
-        <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
+        <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
