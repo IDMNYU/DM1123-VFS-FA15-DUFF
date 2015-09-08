@@ -19,7 +19,7 @@
 <!-- class -->
 <tr>
   <td valign="top">class</td>
-  <td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN<BR>COMPONENTS: COLOR</strong>
+  <td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN</strong>
   <ul>
   <li>Creator Show &amp; Tells due: 
   <ul>
@@ -30,7 +30,7 @@
   <Li>Review Assignment: Good & Bad</li>
   <li>Review assignment: Color</li>
   </ul>
-  <strong>Color</strong>
+  <strong>COMPONENTS: COLOR</strong>
 <ul>
   <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
   <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
