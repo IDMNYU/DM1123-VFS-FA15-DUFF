@@ -14,7 +14,6 @@ Paula Scher (type & image) | | Sep 15
 Andy Warhol (image) | Maria & Polina | Sep 15
 Josef Muller-Brockman (composition / the grid) |  | Sep. 22 
 Art Chantry (music / punk aesthetic) |  | Sep. 22
-Peter Saville (music / punk aesthetic) |  | Sep. 22
 Aleksander Rodchenko (composition & photography) | | Sep. 22
 Peter Saville (music / punk aesthetic) |  | Sep. 22
 Tibor Kalman (concept / image) | | Sep 24
