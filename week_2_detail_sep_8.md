@@ -39,7 +39,11 @@
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
     <ul>
-
+<li>Creator Show &amp; Tells due: 
+  <ul>
+  <li>David Carson (Spencer & Dylan)</li>
+  <li>Nicolas Felton (Fannie & Tiffany L.)</li>
+  </ul></li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
     <li>Review assignment: Typefaces</li>
     <li>Demo: Adobe Illustrator</li>
