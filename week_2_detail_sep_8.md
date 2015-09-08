@@ -29,7 +29,17 @@
   <li>Assign remaining creator Show &amp; Tells</li>
   <Li>Review Assignment: Good & Bad</li>
   <li>Review assignment: Color</li>
-  <li>Demo: Wordpress continued</li>
+  </ul>
+  <strong>Demos</strong>
+<ul>
+<li><a href="http://wordpress.org">Wordpress</a> Overview (pages vs. posts, categories, menu)</li>
+<li>Color</li>
+  <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
+  <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
+  <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
+  <li><a href="http://0to255.com" target="_blank">0to255</a></li>
+  <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
+ </ul>
  
   </ul>
   </td>
