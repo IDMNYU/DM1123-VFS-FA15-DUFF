@@ -30,10 +30,8 @@
   <Li>Review Assignment: Good & Bad</li>
   <li>Review assignment: Color</li>
   </ul>
-  <strong>Demos</strong>
+  <strong>Color</strong>
 <ul>
-<li><a href="http://wordpress.org">Wordpress</a> Overview (pages vs. posts, categories, menu)</li>
-<li>Color</li>
   <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
   <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
   <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
