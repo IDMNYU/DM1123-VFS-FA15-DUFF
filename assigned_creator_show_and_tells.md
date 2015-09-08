@@ -16,10 +16,10 @@ Josef Muller-Brockman (composition / the grid) |  | Sep
 Aleksander Rodchenko (composition & photography) | | Sep
 Tibor Kalman (concept / image) | | Sep 24
 Barbara Krueger (type & image) |  | Sep 24
-Shepard Fairey (semiotics) |  | Oct 
-Saul Bass (for logos, not film titles) |  | Oct 
-Art Chantry (music / punk aesthetic) |  | Oct 
-Peter Saville (music / punk aesthetic) |  | Oct
+Art Chantry (music / punk aesthetic) |  | Sep. 22
+Peter Saville (music / punk aesthetic) |  | Sep. 22
+Saul Bass (for logos, not film titles) |  | Oct. 06
+Shepard Fairey (semiotics) |  | Oct. 08
 Chip Kidd (book jackets) | | Oct. 29
 
 #### CREATOR SHOW & TELLS Directions
