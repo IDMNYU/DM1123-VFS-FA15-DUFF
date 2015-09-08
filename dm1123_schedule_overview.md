@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="week_2_detail_sep_8.md">Sep 8<br><strong>Components: Color</strong><br>Show & Tells: David Carson & Nicolas Felton</a></td>
+        <td><a href="week_2_detail_sep_8.md">Sep 8<br><strong>Components: Color</strong><br>Show & Tells: David Carson & Nicholas Felton</a></td>
         <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a></td>
     </tr>
     <tr>
