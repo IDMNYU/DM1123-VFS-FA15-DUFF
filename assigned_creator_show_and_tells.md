@@ -9,7 +9,6 @@ Subject | Team | Date
 --- | --- | ---
 Nicolas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
 David Carson (type & image) | Spencer & Dylan |  Sep 8
-Chip Kidd (book jackets) | | Sep
 Josef Muller-Brockman (composition / the grid) |  | Sep 
 Aleksander Rodchenko (composition & photography) | | Sep
 Andy Warhol (image) | Maria & Polina | Sep
@@ -21,7 +20,7 @@ Shepard Fairey (semiotics) |  | Oct
 Saul Bass (for logos, not film titles) |  | Oct 
 Art Chantry (music / punk aesthetic) |  | Oct 
 Peter Saville (music / punk aesthetic) |  | Oct
-
+Chip Kidd (book jackets) | | Oct. 29
 
 #### CREATOR SHOW & TELLS Directions
 * Pair up w/ 1 classmate
