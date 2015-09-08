@@ -3,7 +3,7 @@
 ---
 
 # Assignment: Composition and Concept
-####POST TO WORDPRESS
+####POST TO WORDPRESS OR TUMBLR
 
 
 *  **Your Favorite Book Cover**
