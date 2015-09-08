@@ -7,7 +7,7 @@
 
 Subject | Team | Date
 --- | --- | ---
-Nicolas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
+Nicholas Felton (data visualization) |Fannie & Tiffany L. | Sep 8
 David Carson (type & image) | Spencer & Dylan |  Sep 8
 Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep 15
 Paula Scher (type & image) | | Sep 15
