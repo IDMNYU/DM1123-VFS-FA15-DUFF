@@ -4,7 +4,7 @@
 
 # Assignment: Composition and Concept
 
-**POST TO WORDPRESS**
+**POST TO WORDPRESS OR TUMBLR**
 
 *  **Your Favorite Book Cover**
   * Post a supporting image of your favorite book cover (novel, comic book, graphic novel, manga, etc.)
