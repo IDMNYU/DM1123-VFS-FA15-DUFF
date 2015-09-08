@@ -4,7 +4,7 @@
 
 # Assignment: Brands
 
-* Post to wordpress.
+* Post to wordpress or tumblr.
 
 * List your favorite brand and discuss why in terms of its message and/or visual form.
 
