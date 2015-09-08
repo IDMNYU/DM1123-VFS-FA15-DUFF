@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Components: Composition</strong><br>Show and Tell: Josef Müller-Brockmann and Alexander Rodchenko</td>
+        <td valign="top">Sep 22<br><strong>Components: Composition</strong><br>Show and Tell: Josef Müller-Brockmann, Peter Saville, Art Chantry, and Alexander Rodchenko</td>
         <td valign="top">Sep 24<br><strong>Components: Concept</strong><br>Show and Tell: Barbara Krueger</td>
     </tr>
     <tr>
