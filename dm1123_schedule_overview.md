@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br>Stefan Sagmeister and Paula Scher</td>
+        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br>Show and Tells: Stefan Sagmeister and Paula Scher</td>
         <td valign="top">Sep 24<br><strong>Components: Composition &amp; Concept</strong></td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
     <tr>
         <td>9</td>
         <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
-        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></td>
+        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong><br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
     </tr>
     <tr>
         <td>10</td>
