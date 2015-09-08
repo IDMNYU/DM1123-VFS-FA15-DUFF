@@ -3,7 +3,7 @@
 ---
 
 # Assignment: Images
-**Post to wordpress, the following**
+**Post to wordpress or tumblr, the following**
 
 * an image that illustrates the concept of **symmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
 
