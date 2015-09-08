@@ -20,17 +20,17 @@
     <tr>
         <td>2</td>
         <td><a href="week_2_detail_sep_8.md">Sep 8<br><strong>Components: Color</strong><br>Show & Tells: David Carson & Nicholas Felton</a></td>
-        <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a></td>
+        <td><a href="week_2_detail_sep_8.md">Sep 10<br><strong>Components: Type</strong></a><br><strong>Screening: Type</strong></td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show & Tells: Saul Bass, Barbara Krueger, and Alexander Rodchenko</td>
+        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show and Tells: Stefan Sagmeister and Paula Scher<br>Show & Tells:</td>
         <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br>Show and Tells: Stefan Sagmeister and Paula Scher</td>
-        <td valign="top">Sep 24<br><strong>Components: Composition &amp; Concept</strong></td>
+        <td valign="top">Sep 22<br><strong>Components: Composition</strong><br>Show and Tell: Josef Müller-Brockmann and Alexander Rodchenko</td>
+        <td valign="top">Sep 24<br><strong>Components: Concept</strong><br>Show and Tell: Barbara Krueger</td>
     </tr>
     <tr>
         <td>5</td>
