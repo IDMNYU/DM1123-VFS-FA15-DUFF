@@ -24,12 +24,12 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show & Tells: Stefan Sagmeister, Barbara Krueger, and Alexander Rodchenko</td>
+        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show & Tells: Saul Bass, Barbara Krueger, and Alexander Rodchenko</td>
         <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong></td>
+        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br>Stefan Sagmeister and Paula Scher</td>
         <td valign="top">Sep 24<br><strong>Components: Composition &amp; Concept</strong></td>
     </tr>
     <tr>
