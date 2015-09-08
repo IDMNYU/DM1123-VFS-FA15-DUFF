@@ -12,7 +12,7 @@ David Carson (type & image) | Spencer & Dylan |  Sep 8
 Chip Kidd (book jackets) | | Sep
 Josef Muller-Brockman (composition / the grid) |  | Sep 
 Aleksander Rodchenko (composition & photography) | | Sep
-Andy Warhol (image) |  | Sep
+Andy Warhol (image) | Maria and Polina | Sep
 Tibor Kalman (concept / image) | | Sep
 Barbara Krueger (type & image) |  | Sep
 Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep
