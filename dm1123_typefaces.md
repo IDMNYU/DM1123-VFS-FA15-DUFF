@@ -4,7 +4,7 @@
 
 # Assignment: Typefaces
 
-* **Post to wordpress, your favorite typeface used within an image.**
+* **Post to wordpress or tumblr, your favorite typeface used within an image.**
 
 * **List the typeface’s family (Consult http://thinkingwithtype.com):**
   * serif
