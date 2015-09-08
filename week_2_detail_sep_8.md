@@ -21,11 +21,7 @@
   <td valign="top">class</td>
   <td valign="top" width="48%"><strong>GOOD VS. BAD DESIGN</strong>
   <ul>
-  <li>Creator Show &amp; Tells due: 
-  <ul>
-  <li>David Carson (Spencer & Dylan)</li>
-  <li>Nicolas Felton (Fannie & Tiffany L.)</li>
-  </ul></li>
+  
   <li>Assign remaining creator Show &amp; Tells</li>
   <Li>Review Assignment: Good & Bad</li>
   <li>Review assignment: Color</li>
