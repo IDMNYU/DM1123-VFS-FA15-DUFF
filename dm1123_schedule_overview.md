@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></td>
-        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></td>
+        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong><br>Show and Tell: Saul Bass</td>
+        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong><br>Show and Tell: Shepard Fairey</td>
     </tr>
     <tr>
         <td>7</td>
