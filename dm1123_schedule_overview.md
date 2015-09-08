@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show & Tells: Stefan Sagmeister, Barbara Krueger, and Alexandr Rodchenko</td>
+        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br>Show & Tells: Stefan Sagmeister, Barbara Krueger, and Alexander Rodchenko</td>
         <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image HW Review</strong></td>
     </tr>
     <tr>
