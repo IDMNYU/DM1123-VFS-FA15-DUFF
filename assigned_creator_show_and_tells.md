@@ -14,7 +14,7 @@ Aleksander Rodchenko (composition & photography) | | Sep
 Andy Warhol (image) | Maria & Polina | Sep
 Tibor Kalman (concept / image) | | Sep
 Barbara Krueger (type & image) |  | Sep 24
-Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep
+Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep 15
 Paula Scher (type & image) | | Sep
 Shepard Fairey (semiotics) |  | Oct 
 Saul Bass (for logos, not film titles) |  | Oct 
