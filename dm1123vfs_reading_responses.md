@@ -5,6 +5,8 @@
 
 # READING RESPONSES
 
+Complete Reading Responses ONLY when assigned.
+
 * Post to Slack
 * Include title of article as title of your post.
 
