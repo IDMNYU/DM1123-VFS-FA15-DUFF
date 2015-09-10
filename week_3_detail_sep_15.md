@@ -64,7 +64,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
-  <li>Do <a href="../class_exercises/dm1123_class_exercise_image.md" target="_blank">Assignment: Image</a>
+  <li>Do <a href="dm1123_image.md">Assignment: Image</a>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
