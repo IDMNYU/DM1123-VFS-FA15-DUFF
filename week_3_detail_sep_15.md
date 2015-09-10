@@ -36,7 +36,7 @@
   <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
     
-    <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
+    <li>Review Color, Type, and Image in Teams</li>
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Adobe Photoshop (if time)</li>
     <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
