@@ -47,7 +47,6 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
   <td valign="top"><strong>Graphic Design: The New Basics</strong>
   <ul>
   <li>Rhythm and Balance</li>
@@ -57,6 +56,7 @@
   <li>Framing</li>
   </ul>
   </ul></td>
+  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
 </tr>
 
 <!-- do -->
