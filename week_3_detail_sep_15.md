@@ -27,7 +27,7 @@
       <li>Paula Scher: Jamie & Jaiwei</li>
       <li>Stefan Sagmeister: Tiffany S. & Chrystal</li>
     </ul>
-  <li>Naomi Pan: <a href="http://wordmark.it" target="_blank">http://wordmark.it</a></li>
+
   <li>Photoshop Demo</li>
   <li>Illustrator Demo</li>
   <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
