@@ -39,7 +39,7 @@
     <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Adobe Photoshop (if time)</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+    <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
 </tr>
