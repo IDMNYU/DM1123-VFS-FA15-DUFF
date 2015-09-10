@@ -19,7 +19,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Components: Image</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: Image</strong>
   <ul>  
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
