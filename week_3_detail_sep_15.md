@@ -27,7 +27,6 @@
       <li>Paula Scher: Jamie & Jaiwei</li>
       <li>Stefan Sagmeister: Tiffany S. & Chrystal</li>
     </ul>
-
   <li>Photoshop Demo</li>
   <li>Illustrator Demo</li>
   <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
