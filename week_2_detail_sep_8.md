@@ -46,8 +46,9 @@
   </ul>
   
     <li>Review reading (Type vs. Typeface vs. Font)</li>
-    <li><a href="dm1123_vfs_recommended_resources.md" target="_blank">Review resources: Type</a></li>
     <li>Review assignment: Typefaces</li>
+    <li><a href="dm1123_vfs_recommended_resources.md" target="_blank">Review resources: Type</a></li>
+    
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
     </ul>
