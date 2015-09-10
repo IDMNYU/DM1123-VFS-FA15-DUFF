@@ -25,7 +25,7 @@
     <tr>
         <td>3</td>
         <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Components: Image</strong><br>Adobe Photoshop Demo<br>Adobe Illustrator Demo<br><br>Show and Tells: Stefan Sagmeister, Andy Warhol and Paula Scher</td>
-        <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image Review</strong><br>Adobe Illustrator Demo</td>
+        <td valign="top">Sept 17<br><strong>Components: Color, Type &amp; Image Review</strong></td>
     </tr>
     <tr>
         <td>4</td>
