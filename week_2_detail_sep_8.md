@@ -46,6 +46,7 @@
   </ul>
   
     <li>Review reading (Type vs. Typeface vs. Font)</li>
+    <li>http://wordmark.it</li>
     <li>Review assignment: Typefaces</li>
     <li>Demo: Adobe Illustrator</li>
     <li>Screening (if time)</li>
