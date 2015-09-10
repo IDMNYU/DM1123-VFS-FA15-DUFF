@@ -63,6 +63,9 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
+  <ul>
+  <li>Do <a href="../class_exercises/dm1123_class_exercise_image.md" target="_blank">Assignment: Image</a>
+  </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -70,7 +73,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_image.md" target="_blank">class exercise: Image</a></strong> as homework instead.</p>
+  <td valign="top"><p></p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
