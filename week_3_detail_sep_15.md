@@ -27,8 +27,9 @@
       <li>Paula Scher: Jamie & Jaiwei</li>
       <li>Stefan Sagmeister: Tiffany S. & Chrystal</li>
     </ul>
-  <li>Photoshop Demo</li>
-  <li>Illustrator Demo</li>
+    <li>Review reading</li>
+    <li>Review assignment: Image</li>
+  
   <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
@@ -37,8 +38,9 @@
     <ul>
     
     <li>Review Color, Type, and Image in Teams</li>
-    <li>Demo Illustrator continued (if time)</li>
-    <li>Demo Adobe Photoshop (if time)</li>
+    <li>Photoshop Demo</li>
+    <li>Illustrator Demo</li>
+    <li>Screening (if time)</li>
     <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
