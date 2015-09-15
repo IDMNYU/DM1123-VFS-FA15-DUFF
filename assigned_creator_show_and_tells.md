@@ -18,7 +18,7 @@ Aleksander Rodchenko (composition & photography) | | Sep. 22
 Peter Saville (music / punk aesthetic) | Kyleel | Sep. 22
 Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
 Barbara Krueger (type & image) | Jun | Sep 24
-Saul Bass (for logos, not film titles) |  | Oct. 06
+Saul Bass (for logos, not film titles) | Tim & DongNing | Oct. 06
 Shepard Fairey (semiotics) |  | Oct. 08
 Chip Kidd (book jackets) | Cadence &  | Oct. 29
 
