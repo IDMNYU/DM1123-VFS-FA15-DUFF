@@ -20,7 +20,7 @@ Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
 Barbara Krueger (type & image) | Jun | Sep 24
 Saul Bass (for logos, not film titles) |  | Oct. 06
 Shepard Fairey (semiotics) |  | Oct. 08
-Chip Kidd (book jackets) | | Oct. 29
+Chip Kidd (book jackets) | Cadence &  | Oct. 29
 
 #### CREATOR SHOW & TELLS Directions
 * Pair up w/ 1 classmate
