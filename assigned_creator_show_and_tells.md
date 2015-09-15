@@ -13,13 +13,13 @@ Stefan Sagmeister (type & image) | Tiffany S. & Chrystal | Sep 15
 Paula Scher (type & image) | Jamie & Jaiwei | Sep 15
 Andy Warhol (image) | Maria & Polina | Sep 15
 Josef Muller-Brockman (composition / the grid) | Ali & Alexis | Sep. 22 
-Art Chantry (music / punk aesthetic) |  | Sep. 22
-Aleksander Rodchenko (composition & photography) | | Sep. 22
-Peter Saville (music / punk aesthetic) | Kyleel | Sep. 22
+Art Chantry (music / punk aesthetic) | Polina & Maria | Sep. 22
+Aleksander Rodchenko (composition & photography) | Bobby & | Sep. 22
+Peter Saville (music / punk aesthetic) | Kyleel & | Sep. 22
 Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
 Barbara Krueger (type & image) | Jun | Sep 24
 Saul Bass (for logos, not film titles) | Tim & DongNing | Oct. 06
-Shepard Fairey (semiotics) |  | Oct. 08
+Shepard Fairey (semiotics) | Cadence & Spencer | Oct. 08
 Chip Kidd (book jackets) | Cadence &  | Oct. 29
 
 #### CREATOR SHOW & TELLS Directions
