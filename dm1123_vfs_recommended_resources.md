@@ -112,8 +112,9 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Type Foundries**
   * MyFonts – http://www.myfonts.com
   * Émigre – http://emigre.com
-  * T-26 fonts – http://t26.com
   * House Industries – http://houseindustries.com
+  * T-26 fonts – http://t26.com
+  
 
 
 * **What Makes a Font Bad?**
