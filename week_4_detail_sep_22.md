@@ -26,6 +26,8 @@
     <ul>
      <li>Josef Muller-Brockman: Ali & Alexis</li>
     <li>Aleksander Rodchenko: Bobby</li>
+    <li>Tibor Kalman: Stefon & Anna</li>
+    <li>Barbara Krueger: Jamie & Jaiwei</li>
     </ul>
   </ul>
 
@@ -35,8 +37,7 @@
     <li>Assign remaining <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-    <li>Tibor Kalman: Stefon & Anna</li>
-    <li>Barbara Krueger: Jamie & Jaiwei</li>
+    
     <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li>         <li>Shepard Fairey: Cadence & Spencer</li>
     </ul>
     </ul>
