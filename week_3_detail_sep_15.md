@@ -40,8 +40,7 @@
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: How Do You Create Your Own Typefaces?</li>
     <li>Review Color, Type, and Image in Teams</li>
-    <li>Photoshop Demo</li>
-    <li>Illustrator Demo</li>
+    
     <li>Screening (if time)</li>
     <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
