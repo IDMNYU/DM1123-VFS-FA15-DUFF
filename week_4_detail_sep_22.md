@@ -32,7 +32,7 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>Components: Concept</strong>
+  <td valign="top" width="48%"><strong>Project: Logo</strong>
     <ul>
     <li>Assign <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
