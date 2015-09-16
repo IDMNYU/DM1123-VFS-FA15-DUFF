@@ -25,10 +25,10 @@
   <li>Respond to selected tickets to leave</li>
 
   <li>Discuss homework for next class</li>
-  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
+  <li><a href=".Show &amp; Tells</a> due:</li>
     <ul>
       <li>Stefan Sagmeister: Teresa and Larysa</li>
-      <li>Paula Scher: Daric and Alexis</li>
+      <li>Paula</li>
     </ul>
   
    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
@@ -106,7 +106,6 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (pdf posted on basecamp underneath files tab)</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
