@@ -134,8 +134,9 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * 10 Iconic Fonts and Why You Should Never Use Them - http://www.webdesignerdepot.com/2011/02/10-iconic-fonts-and-why-you-should-never-use-them
   * 23 Really Bad Font - Choiceshttp://bonfx.com/23-really-bad-font-choices
 
+
 * **How Do You Create Your Own Typefaces?** 
-    * <strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong>
+    * <a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio (Fontographer successor)</a>
    * <a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a>
     * <a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a>
     * <a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
