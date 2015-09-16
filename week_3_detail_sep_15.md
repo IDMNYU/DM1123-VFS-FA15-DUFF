@@ -28,15 +28,13 @@
       <li>Stefan Sagmeister: Tiffany S. & Chrystal</li>
     </ul>
     <li>Review reading</li>
-    <li>Review assignment: Image</li>
-  
-  <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
+    
   </ul>
 
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
-    
+    <li>Review assignment: Image</li>
     <li>Review Color, Type, and Image in Teams</li>
     <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
