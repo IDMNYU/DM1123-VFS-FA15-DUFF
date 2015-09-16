@@ -14,8 +14,8 @@ Paula Scher (type & image) | Jamie & Jaiwei | Sep 15
 Andy Warhol (image) | Maria & Polina | Sep 15
 Josef Muller-Brockman (composition / the grid) | Ali & Alexis | Sep. 22 
 Aleksander Rodchenko (composition & photography) | Bobby | Sep. 22
-Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
-Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
+Tibor Kalman (concept / image) | Stefon & Anna | Sep 22
+Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 22
 Saul Bass (for logos, not film titles) | Tim & DongNing | Sep 24
 Shepard Fairey (semiotics) | Cadence & Spencer | Sep 24
 Art Chantry (music / punk aesthetic) | Polina & Maria | Oct. 29
