@@ -19,29 +19,33 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
+  <td valign="top" width="48%"><strong>Components: Composition</strong>
   <ul>
-  
-  <li>Discuss homework for next class</li>
+ 
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      
+     <li>Josef Muller-Brockman: Ali & Alexis<li>
+    <li>Art Chantry: Polina & Maria</li>
+    <li>Aleksander Rodchenko: Bobby</li>
+    <li>Peter Saville: Kyleel & Anna</li>
     </ul>
   
    <li><a href="../projectsdm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>SCREENING: Type</strong>
+  <td valign="top" width="48%"><strong>Components: Concept</strong>
     <ul>
  
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
+    <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Tibor Kalman: Michael and Aaron</li>
-      <li>Josef Müller-Brockmann: Collin and Indira</li>
-    </ul>
-    <li>Respond to selected tickets to leave</li>
+      Josef Muller-Brockman (composition / the grid) | Ali & Alexis | Sep. 22 
+Art Chantry (music / punk aesthetic) | Polina & Maria | Sep. 22
+Aleksander Rodchenko (composition & photography) | Bobby | Sep. 22
+Peter Saville (music / punk aesthetic) | Kyleel & Anna | Sep. 22
+Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
+Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
     <ul>
     <li>How Do You Create Your Own Typefaces? 
       <ul>
