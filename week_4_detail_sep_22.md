@@ -74,12 +74,12 @@
   <li>Grid</li>
   <li>Diagram</li>
   </ul>
-  <strong>Type On Screen</strong>
+  
+</td>
+<td valign="top"><strong>Type On Screen</strong>
   <ul>
   <li>02: Text On Screen</li>
-  </ul>
-</td>
-<td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+  </ul><strong>Catch up on reading if behind or<br>Review reading</strong></td>
 </tr>
 
 <!-- do -->
