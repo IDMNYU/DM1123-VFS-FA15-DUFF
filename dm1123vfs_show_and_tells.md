@@ -4,6 +4,8 @@
 
 # LOGO SHOW & TELLS
 ### Logo SHOW & TELL Assignments
+Brand | Team | Date
+--- | --- | ---
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
