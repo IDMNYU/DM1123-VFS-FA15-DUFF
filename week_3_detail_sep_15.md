@@ -33,7 +33,7 @@
 
   </td>
   <td valign="top" width="48%">
-  <strong>COMPONENTS: Color, Type, &amp; Image</strong>
+  <strong>COMPONENTS: Color, Type, &amp; Image Review</strong>
     <ul>
     <li>Review Color, Type, and Image in Teams</li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
