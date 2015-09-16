@@ -21,14 +21,11 @@
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
   <ul>
-  <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
-  <li>Respond to selected tickets to leave</li>
-
+  
   <li>Discuss homework for next class</li>
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Stefan Sagmeister: Teresa and Larysa</li>
-      <li>Paula</li>
+      
     </ul>
   
    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
