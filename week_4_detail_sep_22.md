@@ -41,6 +41,8 @@
      <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
     <ul>
+    </ul>
+    
     <li>How Do You Create Your Own Typefaces? 
       <ul>
       <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong></li>
@@ -50,8 +52,8 @@
         </ul>
         <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
     </ul>
-    </ul>
-    <li>Discuss homework for next week</li>
+    
+    
     <li>Lecture:</li>
       <ul>
       <li><a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
