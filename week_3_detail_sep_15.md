@@ -35,11 +35,11 @@
   <td valign="top" width="48%">
   <strong>COMPONENTS: Color, Type &amp; Image Review</strong>
     <ul>
-    <li>Review Color, Type, and Image in Teams</li>
+    <li>Discuss revised Creator Show and Tell Schedule</li>
+    <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: How Do You Create Your Own Typefaces?</li>
-    <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
-    
+    <li>Review Color, Type, and Image in Teams</li>
     <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
     <li>Screening (if time)</li>
