@@ -34,7 +34,7 @@
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
-    <li>Review assignment: Image</li>
+    
     <li>Review Color, Type, and Image in Teams</li>
     <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
