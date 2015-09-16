@@ -138,10 +138,8 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * Thinking with Type – http://thinkingwithtype.com
   * Designing with Type – http://designingwithtype.com
   * Fount - http://fount.artequalswork.com
-  
   * Wordmark - http://wordmark.it
   * What the Font - https://www.myfonts.com/WhatTheFont/
-  
   * Typolis – http://typolis.de/version1/engl/typolis.htm
   * Counterspace – http://www.counterspace.us/typography
 
