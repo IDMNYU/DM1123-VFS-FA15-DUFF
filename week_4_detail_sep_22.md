@@ -25,9 +25,7 @@
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
      <li>Josef Muller-Brockman: Ali & Alexis</li>
-    <li>Art Chantry: Polina & Maria</li>
     <li>Aleksander Rodchenko: Bobby</li>
-    <li>Peter Saville: Kyleel & Anna</li>
     </ul>
   </ul>
 
