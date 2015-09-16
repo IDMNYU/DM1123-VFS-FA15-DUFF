@@ -45,12 +45,12 @@
     <tr>
         <td>7</td>
         <td>Oct 13<br><strong>NO CLASS</strong> <i>(Legislative Day which means Monday classes will meet instead of Tuesday classes.)</i></td>
-        <td>Oct 15<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
+        <td>Oct 15<br><strong>Screenings</strong></td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
-        <td>Oct 22<br><strong>Screenings</strong></td>
+        <td>Oct 20<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
+        <td>Oct 22<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
     </tr>
     <tr>
         <td>9</td>
