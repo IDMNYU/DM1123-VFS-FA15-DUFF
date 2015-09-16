@@ -29,8 +29,6 @@
     <li>Aleksander Rodchenko: Bobby</li>
     <li>Peter Saville: Kyleel & Anna</li>
     </ul>
-  
-   <li><a href="../projectsdm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
   </ul>
 
   </td>
