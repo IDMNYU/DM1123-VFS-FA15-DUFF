@@ -35,17 +35,11 @@
   <td valign="top" width="48%">
   <strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
-    <li>How Do You Create Your Own Typefaces? 
-      <ul>
-      <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong></li>
-      <li><a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a></li>
-        <ul>
-        <li><a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a></li>
-        </ul>
-        <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
-    </ul>
-    <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
     <li>Review Color, Type, and Image in Teams</li>
+    <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
+    <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: How Do You Create Your Own Typefaces?</li>
+    <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
+    
     <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
     <li>Screening (if time)</li>
