@@ -3,7 +3,9 @@
 ---
 
 # LOGO SHOW & TELLS
+### Logo SHOW & TELL Assignments
 
+### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
 * Post your selection on Slack in the VFS channel.
