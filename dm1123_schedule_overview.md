@@ -30,7 +30,7 @@
     <tr>
         <td>4</td>
         <td valign="top">Sep 22<br><strong>Components: Composition</strong><br>Show and Tell: Josef Müller-Brockmann, Peter Saville, Art Chantry, and Alexander Rodchenko</td>
-        <td valign="top">Sep 24<br><strong>Components: Concept</strong><br>Show and Tell: Barbara Krueger & Tibor Kalman</td>
+        <td valign="top">Sep 24<br><strong>Components: Concept</strong><br>Show and Tell: Barbara Krueger & Tibor Kalman, Saul Bass, and Shepard Fairey</td>
     </tr>
     <tr>
         <td>5</td>
@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong><br>Show and Tell: Saul Bass</td>
-        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong><br>Show and Tell: Shepard Fairey</td>
+        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></td>
+        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></td>
     </tr>
     <tr>
         <td>7</td>
