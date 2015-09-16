@@ -95,7 +95,7 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="dm1123_concept.md">Assignment: Composition and Concept</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
