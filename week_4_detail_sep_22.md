@@ -54,7 +54,7 @@
         <li>Logotypes</li>
         <li>Combination</li>
         </ul></li>
-      <li>Versions (different) vs. Variations (similar) (vfs_logo_packet.pdf pinned on slack)</li>
+      <li><strong>Versions (different) vs. Variations (similar)</strong> (vfs_logo_packet.pdf pinned on slack)</li>
       <li><a href="http://www.creativereview.co.uk/images/uploads/2013/07/aol_wolff_olins_2009_0.jpg" target="_blank">Flexible Logotypes</a> (152-153 Type On Screen)</li>
       <li><a href="http://www.creativeapplications.net/wp-content/uploads/2011/03/LogoMain2.jpg" target="_blank">Generative Logotypes</a> (154-155 Type On Screen)</li>
       <li><a href="../dm1123_vfs_recommended_resources.md" target="_blank">Additional Resources</a> (Under Semiotics)</li>
