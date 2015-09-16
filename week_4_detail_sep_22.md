@@ -35,7 +35,7 @@
   <td valign="top" width="48%"><strong>Components: Concept</strong>
     <ul>
  
-    <li>Finalize <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
+    <li>Assign <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
      <li>Tibor Kalman: Stefon & Anna</li>
