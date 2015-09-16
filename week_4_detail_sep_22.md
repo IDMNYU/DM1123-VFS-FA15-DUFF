@@ -42,15 +42,7 @@
     </ul>
     </ul>
     
-    <li>How Do You Create Your Own Typefaces? 
-      <ul>
-      <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong></li>
-      <li><a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a></li>
-        <ul>
-        <li><a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a></li>
-        </ul>
-        <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
-    </ul>
+    
     
     
     <li>Lecture:</li>
