@@ -108,16 +108,6 @@
 http://www.dpbestflow.org/color/color-space-and-color-profiles
 
 
-* **Typography**
-  * Thinking with Type – http://thinkingwithtype.com
-  * Fount - http://fount.artequalswork.com
-  * Mac OS application: Font Book 
-  * Wordmark - http://wordmark.it
-  * What the Font - https://www.myfonts.com/WhatTheFont/
-  * Designing with Type – http://designingwithtype.com
-  * Typolis – http://typolis.de/version1/engl/typolis.htm
-  * Counterspace – http://www.counterspace.us/typography
-
 
 * **Type Foundries**
   * MyFonts – http://www.myfonts.com
@@ -141,7 +131,17 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     * <a href="http://doc.robofont.com/" target="_blank">Robofont</a> (Built using Python)
     * <a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio (Fontographer successor)</a>
     
-    
+
+* **Typography**
+  * Thinking with Type – http://thinkingwithtype.com
+  * Fount - http://fount.artequalswork.com
+  * Mac OS application: Font Book 
+  * Wordmark - http://wordmark.it
+  * What the Font - https://www.myfonts.com/WhatTheFont/
+  * Designing with Type – http://designingwithtype.com
+  * Typolis – http://typolis.de/version1/engl/typolis.htm
+  * Counterspace – http://www.counterspace.us/typography
+
 
 * **Sitemaps**
   * http://quirktools.com (smaps) 
