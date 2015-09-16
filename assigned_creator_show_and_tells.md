@@ -19,7 +19,7 @@ Peter Saville (music / punk aesthetic) | Kyleel & Anna | Sep. 22
 Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
 Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
 Saul Bass (for logos, not film titles) | Tim & DongNing | Sep 24
-Shepard Fairey (semiotics) | Cadence & Spencer | Oct. 08
+Shepard Fairey (semiotics) | Cadence & Spencer | Sep 24
 Chip Kidd (book jackets) | Cadence & Jun | Oct. 29
 
 #### CREATOR SHOW & TELLS Directions
