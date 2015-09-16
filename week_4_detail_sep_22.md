@@ -3,7 +3,7 @@
 ---
 
 ## [Schedule Weekly Detail](dm1123_schedule_overview.md)
-
+#THIS IS A DRAFT. DO NOT READ>
 <table>
 <tr>
 <td>wk</td>
