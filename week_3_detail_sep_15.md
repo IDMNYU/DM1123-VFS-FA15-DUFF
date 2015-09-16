@@ -32,10 +32,10 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
+  <td valign="top" width="48%">
   <strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
-    
+    <li>Discuss <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a></li>
     <li>Review Color, Type, and Image in Teams</li>
     <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
