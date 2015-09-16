@@ -4,6 +4,7 @@
 
 # LOGO SHOW & TELLS
 ### Logo SHOW & TELL Assignments
+
 Brand | Team | Date
 --- | --- | ---
 
