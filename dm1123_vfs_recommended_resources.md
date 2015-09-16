@@ -143,7 +143,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * Typolis – http://typolis.de/version1/engl/typolis.htm
   * Counterspace – http://www.counterspace.us/typography
   * Mutable Typeface
-    * [Ed Benguiat](http://www.houseind.com/fonts/edbenguiatfonts/fontfeatures)
+    * [House Industries' Ed Benguiat](http://www.houseind.com/fonts/edbenguiatfonts/fontfeatures)
 
 
 * **Sitemaps**
