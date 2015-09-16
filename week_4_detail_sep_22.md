@@ -19,7 +19,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Components: Composition</strong>
+  <td valign="top" width="48%"><strong>Components: Composition and Concept</strong>
   <ul>
   <li>Assign <a href="dm1123vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
@@ -39,7 +39,7 @@
     <ul>
      <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
-    <ul>
+    </ul>
     </ul>
     
     <li>How Do You Create Your Own Typefaces? 
