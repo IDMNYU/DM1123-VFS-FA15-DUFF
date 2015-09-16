@@ -38,12 +38,8 @@
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      Josef Muller-Brockman (composition / the grid) | Ali & Alexis | Sep. 22 
-Art Chantry (music / punk aesthetic) | Polina & Maria | Sep. 22
-Aleksander Rodchenko (composition & photography) | Bobby | Sep. 22
-Peter Saville (music / punk aesthetic) | Kyleel & Anna | Sep. 22
-Tibor Kalman (concept / image) | Stefon & Anna | Sep 24
-Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
+     <li>Tibor Kalman: Stefon & Anna</li>
+    <li>Barbara Krueger: Jamie & Jaiwei</li>
     <ul>
     <li>How Do You Create Your Own Typefaces? 
       <ul>
@@ -71,9 +67,7 @@ Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
       <li><a href="../dm1123_vfs_recommended_resources.md" target="_blank">Additional Resources</a> (Under Semiotics)</li>
       </ul>
     
-    
-    <li>Screening: Helvetica Documentary</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+
     </ul>
   </td>
 </tr>
@@ -81,7 +75,7 @@ Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+  
   <td valign="top">
   <strong>Graphic Design: The New Basics</strong>
   <ul>
@@ -95,12 +89,13 @@ Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
   <li>02: Text On Screen</li>
   </ul>
 </td>
+<td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
 </tr>
 
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td valign="top">
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -108,7 +103,7 @@ Barbara Krueger (type & image) | Jamie & Jaiwei| Sep 24
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
+  <td valign="top">
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
