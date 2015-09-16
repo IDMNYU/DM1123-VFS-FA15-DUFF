@@ -39,7 +39,7 @@
     <ul>
     <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
-    <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li> | Sep     <li>Shepard Fairey: Cadence & Spencer</li>
+    <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li>         <li>Shepard Fairey: Cadence & Spencer</li>
     </ul>
     </ul>
     
