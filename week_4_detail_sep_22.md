@@ -25,7 +25,7 @@
   <li>Respond to selected tickets to leave</li>
 
   <li>Discuss homework for next class</li>
-  <li><a href=".Show &amp; Tells</a> due:</li>
+  <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Stefan Sagmeister: Teresa and Larysa</li>
       <li>Paula</li>
