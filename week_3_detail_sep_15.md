@@ -45,7 +45,7 @@
     
     
     <li>Screening (if time)</li>
-    <li><a href="tickets_to_leave.md">Ticket to leave</a></li>
+    
     </ul>
   </td>
 </tr>
