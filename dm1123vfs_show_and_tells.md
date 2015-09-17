@@ -7,6 +7,7 @@
 
 Brand | Team 
 --- | --- 
+Coca Cola | Polina & Maria
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
