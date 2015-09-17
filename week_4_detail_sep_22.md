@@ -38,7 +38,7 @@
     <ul>
     <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-    <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li>         <li>Shepard Fairey: Cadence & Spencer</li>
+    <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li>          <li>Shepard Fairey: Cadence & Spencer</li>
     </ul>
     </ul>
     
