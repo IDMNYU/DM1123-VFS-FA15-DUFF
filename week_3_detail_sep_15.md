@@ -44,7 +44,7 @@
     <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: Mutable Typefaces</li>
     
     
-    <li>Screening (if time)</li>
+    
     
     </ul>
   </td>
