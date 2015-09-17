@@ -88,7 +88,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
-  <Li>One member of your team should post your logo show & tell brand and partner to the vfs slack channel if you have not done so already</li>
+  <li>One member of your team should post your logo show & tell brand and partner to the vfs slack channel if you have not done so already</li>
   <li><strong>Do <a href="dm1123_concept.md">Assignment: Composition and Concept</a></strong> as homework instead.</li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
