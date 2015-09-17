@@ -29,6 +29,8 @@
     <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
     </ul>
+    <li>Review Image Homework</li>
+    <li>Review Composition and Concept Homework</li>
     <li>Illustrator Demo</li>
     <li>Screening (if time)</li>
   </ul>
