@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong><a href="week_4_detail_sep_22.md">Components: Composition and Concept</strong><br>Show and Tells: Josef Müller-Brockmann, Alexander Rodchenko, Barbara Krueger, and Tibor Kalman</a></td>
+        <td valign="top">Sep 22<br><strong><a href="week_4_detail_sep_22.md">Components: Composition and Concept</strong></a><br>Show and Tells: Josef Müller-Brockmann, Alexander Rodchenko, Barbara Krueger, and Tibor Kalman</td>
         <td valign="top">Sep 24<br><a href="week_4_detail_sep_22.md"><strong>Project: Logo</strong></a><br>Show and Tells: Saul Bass and Shepard Fairey</td>
     </tr>
     <tr>
