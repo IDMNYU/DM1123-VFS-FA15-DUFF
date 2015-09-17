@@ -29,8 +29,8 @@
     <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
     </ul>
-    <li>Photoshop Demo</li>
     <li>Illustrator Demo</li>
+    <li>Screening (if time)</li>
   </ul>
 
   </td>
