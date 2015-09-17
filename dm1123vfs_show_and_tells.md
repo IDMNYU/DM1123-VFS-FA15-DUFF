@@ -9,8 +9,10 @@ Brand | Team
 --- | --- 
 Coca Cola | Polina & Maria
 Apple Computer | Cadence & Spencer
-Starbucks | Fannie & Tiffany S.
+Starbucks | 
 McDonald's | Chrystal & Tiffany L.
+Legos | DongNing & Tim
+Disney | Fannie & Tiffany S.
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
