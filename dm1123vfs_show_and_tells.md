@@ -13,7 +13,7 @@ Starbucks |
 McDonald's | Chrystal & Tiffany L.
 Legos | DongNing & Tim
 Disney | Fannie & Tiffany S.
-Haier | Jamie & Jaiwei
+Haier | Jamie & Jiawei
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
