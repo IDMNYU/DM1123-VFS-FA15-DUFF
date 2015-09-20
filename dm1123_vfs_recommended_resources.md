@@ -146,6 +146,8 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     * [House Industries: Ed Benguiat](http://www.houseind.com/fonts/edbenguiatfonts/fontfeatures)
     * [Typotheque: Julien](https://www.typotheque.com/fonts/julien/features)
 
+* **Logos**
+* [Logopedia](http://logos.wikia.com/wiki/Logopedia)
 
 * **Sitemaps**
   * http://quirktools.com (smaps) 
