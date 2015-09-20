@@ -150,9 +150,9 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
  * [Logopedia](http://logos.wikia.com/wiki/Logopedia)
  * [The difference between a brand and a logo](http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand)
  * [3 Basic Types of Logos](http://www.logodesignsource.com/types.html)
-  * [Icons / Symbols](http://thenounproject.com)
-  * Logotypes
-  * Combination
+   * [Icons / Symbols](http://thenounproject.com)
+   * Logotypes
+   * Combination
  * [(if you want to get technical,) there is actually 5](http://www.nodinx.com/5-basic-types-of-logos/)
  * Versions (different) vs. Variations (similar) (vfs_logo_packet.pdf will be pinned on slack)
  * [Flexible Logotypes](http://www.hexanine.com/zeroside/the-future-is-fluid-inside-dynamic-logos/) (152-153 Type On Screen)
