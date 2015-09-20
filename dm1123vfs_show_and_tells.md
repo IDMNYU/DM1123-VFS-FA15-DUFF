@@ -9,7 +9,7 @@ Brand | Team
 --- | --- 
 Coca Cola | Polina & Maria
 Apple Computer | Cadence & Spencer
-Starbucks | 
+Macy's | Alexis & Ali 
 McDonald's | Chrystal & Tiffany L.
 Legos | DongNing & Tim
 Disney | Fannie & Tiffany S.
