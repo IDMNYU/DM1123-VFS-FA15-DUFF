@@ -46,19 +46,7 @@
     </ul>
     
     
- Lecture: Logo
-      <ul>
-      <li><a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
-      <li><a href="http://www.logodesignsource.com/types.html" target="_blank">3 Basic Types of Logos</a> and <a href="http://www.nodinx.com/5-basic-types-of-logos/" target="_blank">if you want to get technical, there is actually 5</a>
-        <ul>
-        <li><a href="http://thenounproject.com/" target="_blank">Icons / Symbols</a></li>
-        <li>Logotypes</li>
-        <li>Combination</li>
-        </ul></li>
-      <li><strong>Versions (different) vs. Variations (similar)</strong> (vfs_logo_packet.pdf pinned on slack)</li>
-      <li><a href="http://www.hexanine.com/zeroside/the-future-is-fluid-inside-dynamic-logos/" target="_blank">Flexible Logotypes</a> (152-153 Type On Screen)</li>
-      <li><a href="http://www.creativeapplications.net/wp-content/uploads/2011/03/LogoMain2.jpg" target="_blank">Generative Logotypes</a> (154-155 Type On Screen)</li>
-      <li><a href="dm1123_vfs_recommended_resources.md">Additional Resources</a> (Under Semiotics)</li>
+ Logo Lecture & <a href="dm1123_vfs_recommended_resources.md">Additional Resources</a></li>
       </ul>
     
 
