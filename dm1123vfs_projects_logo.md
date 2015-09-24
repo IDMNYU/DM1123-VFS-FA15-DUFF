@@ -4,17 +4,13 @@
 
 
 # PROJECT: LOGO
-Create a logo for your selected brand in Adobe Illustrator.
+**Create a logo for your selected brand in Adobe Illustrator.**
 * Select a brand that is personal to you in some way. 
 * It could be your own, a friend’s, or a family member’s. 
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
 
 ####LOGO 1st Draft  
-* Post to your wordpress 
-* as a gallery 
-  * New Post -> Add Media -> Create Gallery
-  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
-* Category: logo1
+* Post to your tumblr 
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
