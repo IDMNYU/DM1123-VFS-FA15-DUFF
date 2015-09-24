@@ -32,7 +32,7 @@
     <li>Review Reading</li>
     <li>Review Image Homework</li>
     <li>Review Composition and Concept Homework</li>
-    <li>Illustrator Demo</li>
+    
     
   </ul>
 
@@ -44,6 +44,7 @@
     <Li>Saul Bass (for logos, not film titles): Tim & DongNing</li>          <li>Shepard Fairey: Cadence & Spencer</li>
     </ul>
     <li>Logo Lecture & <a href="dm1123_vfs_recommended_resources.md">Additional Resources</a></li>
+    <li>Illustrator Demo</li>
     <li>Screening (if time)</li>
     </ul>
     
