@@ -61,20 +61,9 @@
 <tr>
   <td valign="top">read</td>
   
-  <td valign="top">
-  <strong>Graphic Design: The New Basics</strong>
-  <ul>
-  <li>Hierarchy</li>
-  <li>Layers</li>
-  <li>Grid</li>
-  <li>Diagram</li>
-  </ul>
-  
+  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong>
 </td>
-<td valign="top"><strong>Type On Screen</strong>
-  <ul>
-  <li>02: Text On Screen</li>
-  </ul><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+<td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
 </tr>
 
 <!-- do -->
