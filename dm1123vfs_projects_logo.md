@@ -11,7 +11,7 @@
 
 ####LOGO 1st Draft  
 * Post to your tumblr 
-* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your post
+* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
   * A big version vs. a tiny version (a little bigger than postage size) in the corner
