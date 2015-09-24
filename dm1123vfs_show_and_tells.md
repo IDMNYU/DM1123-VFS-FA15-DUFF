@@ -14,6 +14,11 @@ McDonald's | Chrystal & Tiffany L.
 Legos | DongNing & Tim
 Disney | Fannie & Tiffany S.
 Haier | Jamie & Jiawei
+ | Jun & Kyleel
+
+Dylan?
+Bobby?
+Stefon? Anna?
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
