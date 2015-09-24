@@ -14,11 +14,10 @@ McDonald's | Chrystal & Tiffany L.
 Legos | DongNing & Tim
 Disney | Fannie & Tiffany S.
 Haier | Jamie & Jiawei
+Microsoft Windows | Stefon & Anna
  | Jun & Kyleel
+| Dylan & Bobby
 
-Dylan?
-Bobby?
-Stefon? Anna?
 
 ### Logo SHOW & TELL Directions
 * Pair up w/ 1 classmate 
