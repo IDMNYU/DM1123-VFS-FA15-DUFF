@@ -45,7 +45,7 @@
     </ul>
     <li>Logo Lecture & <a href="dm1123_vfs_recommended_resources.md">Additional Resources</a></li>
     <li>Illustrator Demo</li>
-    <li>Screening (if time)</li>
+  
     </ul>
     
     
