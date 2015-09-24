@@ -15,8 +15,8 @@ Legos | DongNing & Tim
 Disney | Fannie & Tiffany S.
 Haier | Jamie & Jiawei
 Microsoft Windows | Stefon & Anna
- | Jun & Kyleel
-| Dylan & Bobby
+AT&T | Jun & Kyleel
+Mountain Dew | Dylan & Bobby
 
 
 ### Logo SHOW & TELL Directions
