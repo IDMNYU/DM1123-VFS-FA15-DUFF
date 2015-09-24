@@ -14,9 +14,9 @@
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
-  * A big version vs. a tiny version (a little bigger than postage size) in the corner
-* at least 3 should be digital
-* at least 3 should be haptic (non-digital) 
+  * A big version vs. a tiny version (a little bit bigger than postage size) in the corner
+  * at least 3 should be digital
+  * at least 3 should be haptic (non-digital) 
   * You will need to digitize haptic files (i.e. scan or take a digital photo, etc.)
 * Also, consider creating haptic / digital combos
 * To comprise your different versions, play around with creating <a href="http://www.logodesignsource.com/types.html" target="_blank">icons/symbols, logotypes, and/or combination logos</a>
