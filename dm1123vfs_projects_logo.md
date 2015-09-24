@@ -25,7 +25,8 @@
 ## LOGO 2nd Draft  
 * Post to your tumblr or wordpress
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
-* **At least 5 different variations of logo** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
+* Select at least 2 different versions, and create
+**At least 5 different variations of each** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 5 images
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
 
