@@ -10,7 +10,7 @@
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
 
 ####LOGO 1st Draft  
-* Post to your tumblr 
+* Post to your tumblr or wordpress 
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
@@ -23,11 +23,7 @@
 * It could also be a redesign of an existing personal logo. If so, please post the original logo as well
 
 #### LOGO 2nd Draft  
-* Post to your wordpress 
-* as a gallery 
-  * New Post -> Add Media -> Create Gallery
-  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
-* Category: logo2 
+* Post to your tumblr or wordpress
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * **At least 5 different variations of logo** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 5 images
