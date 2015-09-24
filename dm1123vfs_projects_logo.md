@@ -4,7 +4,7 @@
 
 
 # PROJECT: LOGO
-**Create a logo for your selected brand in Adobe Illustrator.**
+###Create a logo for your selected brand in Adobe Illustrator.
 * Select a brand that is personal to you in some way. 
 * It could be your own, a friend’s, or a family member’s. 
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
