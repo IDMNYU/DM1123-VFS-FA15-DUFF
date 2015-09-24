@@ -67,8 +67,7 @@
 
 * **Adobe Illustrator**
   * The HELP menu in Adobe Illustrator or
-  * Illustrator CC Visual QuickStart Guide 
-  * by Elaine Weinmann and Peter Lourekas or
+  * Illustrator CC Visual QuickStart Guide by Elaine Weinmann and Peter Lourekas or
   * Adobe Illustrator CC Classroom in a Book by Adobe Creative Team
 
 
@@ -80,8 +79,7 @@
 
 * **Adobe Photoshop**
   * The HELP menu in Adobe Photoshop or
-  * Photoshop CC: Visual QuickStart Guide 
-  * by Elaine Weinmann and Peter Lourekas or
+  * Photoshop CC: Visual QuickStart Guide by Elaine Weinmann and Peter Lourekas or
   * Adobe Photoshop CC Classroom in a Book by Adobe Creative Team
 
 
