@@ -40,7 +40,7 @@
   <td valign="top">
   <ul>
   
-  <li><strong>Do <a href="dm1123vfs_show_and_tells.md">Assignment: Logo Show and Tells</a></strong> as homework instead.</li>
+  <li><strong>Do <a href="dm1123vfs_show_and_tells.md">Assignment: Logo Show and Tells</a></strong></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
