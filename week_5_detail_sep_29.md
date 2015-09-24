@@ -38,16 +38,19 @@
   <td valign="top">
   <ul>
   
-  <li><strong>Do <a href="dm1123vfs_show_and_tells.md">Assignment: Logo Show and Tells</a></strong></li>
-  </ul>
-  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <li><strong><a href="dm1123vfs_show_and_tells.md">Assignment: Logo Show and Tells</a></strong></li>
+     
+  <Li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
+  </ul></ul></td>
+  <td valign="top">
+  <ul>
+  <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
+  <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
-  <td valign="top"><strong>Do <a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong>
-  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
