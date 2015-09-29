@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></td>
-        <td>Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></a></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></a></td>
     </tr>
     <tr>
         <td>7</td>
