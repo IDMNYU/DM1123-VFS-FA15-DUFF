@@ -29,7 +29,12 @@
   
   <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong>
 </td>
-<td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+<td valign="top">
+<ul>
+<Li>Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</li>
+<li>Catch up on reading if behind or</li>
+<li>Review reading</li>
+</ul></strong></td>
 </tr>
 
 <!-- do -->
