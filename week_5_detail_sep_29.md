@@ -53,6 +53,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
+  <li><a href="">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a>
   <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
