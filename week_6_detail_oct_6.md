@@ -28,9 +28,9 @@
 <tr>
   <td valign="top">read</td>
   
-  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong>
+  <td valign="top"><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a>
 </td>
-<td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+<td valign="top">/td>
 </tr>
 
 <!-- do -->
