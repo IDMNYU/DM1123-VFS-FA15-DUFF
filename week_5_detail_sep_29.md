@@ -20,13 +20,16 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong><a href="dm1123vfs_show_and_tells.md">Logo Show and Tells</a></strong></td>
-  <td valign="top" width="48%"><strong><i>NO CLASS</i></strong> (Professor is out of town)</i></td>
+  <td valign="top" width="48%">
+  <ul>
+  <Li><strong><i>NO CLASS</i></strong> (Professor is out of town)</li>
+  <li>Work on Homework. See below.</li>
+  </ul></td>
 </tr>
 
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  
   <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong>
 </td>
 <td valign="top">
