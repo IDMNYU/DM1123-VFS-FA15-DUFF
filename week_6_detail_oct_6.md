@@ -27,7 +27,7 @@
 <tr>
   <td valign="top">read</td>
   
-  <td valign="top"><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a>
+  <td valign="top">
 </td>
 <td valign="top">/td>
 </tr>
