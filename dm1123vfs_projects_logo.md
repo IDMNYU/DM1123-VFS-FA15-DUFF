@@ -33,7 +33,7 @@
 * Post to your tumblr or wordpress
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
 * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well.
-* **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version vs. a tiny version (a little bigger than postage size) in the corner
+* **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version (and a tiny version (a little bigger than postage size) in the corner)
 
 
 
