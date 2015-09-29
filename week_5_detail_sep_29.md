@@ -23,7 +23,7 @@
   <td valign="top" width="48%">
   <ul>
   <Li><strong><i>NO CLASS</i></strong> (Professor is out of town)</li>
-  <li>Work on Homework. See below.</li>
+  <li><strong>Work on Homework.</strong> See below.</li>
   </ul></td>
 </tr>
 
