@@ -20,8 +20,8 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong></strong></td>
-  <td valign="top" width="48%"></td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft (Group A)</strong></td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft (Group B)</a></td>
 </tr>
 
 <!-- read -->
