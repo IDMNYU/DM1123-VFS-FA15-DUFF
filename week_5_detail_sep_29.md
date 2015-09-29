@@ -31,7 +31,7 @@
 </td>
 <td valign="top">
 <ul>
-<Li>Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</li>
+<Li><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
 <li>Catch up on reading if behind or Review reading</li>
 </ul></td>
 </tr>
