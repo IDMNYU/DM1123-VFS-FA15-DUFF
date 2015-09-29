@@ -12,7 +12,7 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">4</td>
+  <td valign="top">6</td>
   <td valign="top"><strong>Oct 6</strong></td>
   <td valign="top"><strong>Oct 8</strong></td>
 </tr>
