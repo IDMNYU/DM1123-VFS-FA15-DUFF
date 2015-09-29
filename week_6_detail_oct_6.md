@@ -20,7 +20,7 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>LOGO 1st Draft <a href="dm1123_vfs_groups.md">(Group A)</a></strong></td>
-  <td valign="top" width="48%"><strong><a href="dm1123_vfs_groups.md">LOGO 1st Draft (Group B)</a></td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft <a href="dm1123_vfs_groups.md">(Group B)</a></td>
 </tr>
 
 
