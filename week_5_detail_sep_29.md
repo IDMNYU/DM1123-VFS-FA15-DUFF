@@ -32,8 +32,7 @@
 <td valign="top">
 <ul>
 <Li>Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</li>
-<li>Catch up on reading if behind or</li>
-<li>Review reading</li>
+<li>Catch up on reading if behind or Review reading</li>
 </ul></td>
 </tr>
 
