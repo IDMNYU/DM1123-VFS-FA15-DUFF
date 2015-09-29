@@ -23,14 +23,6 @@
   <td valign="top" width="48%"><strong><a href="dm1123_vfs_groups.md">LOGO 1st Draft (Group B)</a></td>
 </tr>
 
-<!-- read -->
-<tr>
-  <td valign="top">read</td>
-  
-  <td valign="top">
-</td>
-<td valign="top">/td>
-</tr>
 
 <!-- do -->
 <tr>
