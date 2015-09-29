@@ -48,7 +48,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
-  
+  <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
