@@ -19,8 +19,8 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>LOGO 1st Draft <a href="dm1123_vfs_groups.md">(Group A)</a></strong></td>
-  <td valign="top" width="48%"><strong>LOGO 1st Draft <a href="dm1123_vfs_groups.md">(Group B)</a></td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (Half of Class)</td>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (Other Half of Class)</td>
 </tr>
 
 
