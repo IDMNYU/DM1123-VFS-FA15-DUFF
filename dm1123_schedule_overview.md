@@ -49,17 +49,17 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
-        <td>Oct 22<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
+        <td>Oct 20<br><strong>LOGO 2nd Draft (Half of Class)</strong></td>
+        <td>Oct 22<br><strong>LOGO 2nd Draft (Other Half of Class)</strong></td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
-        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong><br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (The Entire Class)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
+        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Half of Class)</strong><br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Half of Class)</strong></td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Other Half of Class)</strong></td>
         <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft (Other Half of Class)</a></strong></td>
     </tr>
     <tr>
