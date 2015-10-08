@@ -12,7 +12,6 @@
    * [Week 7 Detail Oct 13](week_7_detail_oct_13.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
-* [Groups](dm1123_vfs_groups.md)
 * [Project: Logo](dm1123vfs_projects_logo.md)
 * [Project: Physical Application](dm1123vfs_projects_pa.md)
 * [Project: Interface](dm1123vfs_projects_interface.md)
