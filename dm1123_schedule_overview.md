@@ -44,8 +44,8 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 13<br><strong>NO CLASS</strong> <i>(Legislative Day which means Monday classes will meet instead of Tuesday classes.)</i></td>
-        <td>Oct 15<br><strong>Screenings</strong></td>
+        <td><a href="week_7_detail_oct_13.md">Oct 13<br><strong>NO CLASS</strong> <i>(Legislative Day which means Monday classes will meet instead of Tuesday classes.)</i></a></td>
+        <td><a href="week_7_detail_oct_13.md">Oct 15<br><strong>Demos continued / Screenings</strong></a></td>
     </tr>
     <tr>
         <td>8</td>
