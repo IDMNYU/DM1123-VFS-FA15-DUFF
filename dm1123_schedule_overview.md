@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="week_6_detail_oct_6.md">Oct 06<br><strong>LOGO 1st Draft (Group A)</strong></a></td>
-        <td><a href="week_6_detail_oct_6.md">Oct 08<br><strong>LOGO 1st Draft (Group B)</strong></a></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 06<br><strong>LOGO 1st Draft (Half of Class)</strong></a></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 08<br><strong>LOGO 1st Draft (Other Half of Class)</strong></a></td>
     </tr>
     <tr>
         <td>7</td>
@@ -59,8 +59,8 @@
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Group A)</strong></td>
-        <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Half of Class)</strong></td>
+        <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft (Other Half of Class)</a></strong></td>
     </tr>
     <tr>
         <td>11</td>
