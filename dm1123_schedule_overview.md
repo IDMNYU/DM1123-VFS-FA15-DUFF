@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="week_6_detail_oct_6.md">Oct 06<br><strong>LOGO 1st Draft (Half of Class)</strong></a></td>
-        <td><a href="week_6_detail_oct_6.md">Oct 08<br><strong>LOGO 1st Draft (Other Half of Class)</strong></a></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 06<br><strong>LOGO 1st Draft</strong> (Half of Class)</a></td>
+        <td><a href="week_6_detail_oct_6.md">Oct 08<br><strong>LOGO 1st Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>7</td>
@@ -49,18 +49,18 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong>LOGO 2nd Draft (Half of Class)</strong></td>
-        <td>Oct 22<br><strong>LOGO 2nd Draft (Other Half of Class)</strong></td>
+        <td>Oct 20<br><strong>LOGO 2nd Draft</strong> (Half of Class)</td>
+        <td>Oct 22<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (The Entire Class)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
-        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Half of Class)</strong><br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</td>
+        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft</strong> (Half of Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Other Half of Class)</strong></td>
-        <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft (Other Half of Class)</a></strong></td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</td>
+        <td>Nov 5<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>11</td>
