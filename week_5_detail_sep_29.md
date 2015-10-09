@@ -47,7 +47,7 @@
   
   <li><strong><a href="dm1123vfs_show_and_tells.md">Assignment: Logo Show and Tells</a></strong></li>
      
-  <Li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+  <Li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
@@ -58,7 +58,7 @@
   <ul>
   <li><a href="dm1123vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a>
   <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
-  <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+  <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
 </table>
