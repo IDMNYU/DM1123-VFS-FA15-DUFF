@@ -30,7 +30,7 @@
   <td valign="top">
   <ul>
 <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
-  <Li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+  <Li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
@@ -40,7 +40,7 @@
   <td valign="top">
   <ul>
   <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
-  <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+  <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
 </table>
