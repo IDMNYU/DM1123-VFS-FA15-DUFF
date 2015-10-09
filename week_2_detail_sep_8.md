@@ -94,7 +94,7 @@
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   </ul>
-  <strong>Do Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <strong>Do <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
@@ -102,7 +102,7 @@
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
   <td valign="top"><p>Do <a href="dm1123_typefaces.md">Assignment: Typefaces</a></p>
-  <strong>Do Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
+  <strong>Do <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 
 </tr>
 </table>
