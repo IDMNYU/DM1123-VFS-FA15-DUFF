@@ -72,7 +72,7 @@
   <ul>
   <li>Do <a href="dm1123_image.md">Assignment: Image</a>
   </ul>
-  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
@@ -80,6 +80,6 @@
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
   <td valign="top"><p></p>
-  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
+  <strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
