@@ -23,7 +23,6 @@
   <td valign="top" width="48%"><strong>Demos continued</strong>
   <ul>
   <li>Adobe Illustrator</li>
-  <li>Adobe Photoshop</li>
   </ul>
   <strong>Screening</strong></td>
 </tr>
