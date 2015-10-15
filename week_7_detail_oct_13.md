@@ -20,7 +20,13 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>NO CLASS</strong> (Legislative Day which means NYU Monday classes will meet instead of Tuesday classes.)</td>
-  <td valign="top" width="48%"><strong>Demos continued</strong>
+  <td valign="top" width="48%"><strong>LOGO 1st Draft</strong> (continued) 
+  <ul>
+  <li>Bobby</li>
+  <li>DongNing</li>
+  <li>Ali</li>
+  </ul>
+  <strong>Demos continued</strong>
   <ul>
   <li>Adobe Illustrator</li>
   </ul>
