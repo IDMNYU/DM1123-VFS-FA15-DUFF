@@ -49,8 +49,8 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong>LOGO 2nd Draft</strong> (Half of Class)</td>
-        <td>Oct 22<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)</td>
+        <td><a href="week_8_detail_oct_20.md">Oct 20<br><strong>LOGO 2nd Draft</strong> (Half of Class)</a></td>
+        <td><a href="week_8_detail_oct_20.md">Oct 22<br><strong>LOGO 2nd Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>9</td>
