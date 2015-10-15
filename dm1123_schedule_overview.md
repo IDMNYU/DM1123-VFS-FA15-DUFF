@@ -35,7 +35,7 @@
     <tr>
         <td>5</td>
         <td><a href="week_5_detail_sep_29.md">Sep 29<br><strong>LOGO Show & Tells</strong></a></td>
-        <td><a href="week_5_detail_sep_29.md">Oct 01<br><strong><i>NO CLASS</i></strong> (Professor is out of town)</i></a></td>
+        <td><a href="week_5_detail_sep_29.md">Oct 01<br><strong><i>NO CLASS</i></strong> <i>(Professor is out of town)</i></a></td>
     </tr>
     <tr>
         <td>6</td>
