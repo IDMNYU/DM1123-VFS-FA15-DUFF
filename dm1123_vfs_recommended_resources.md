@@ -86,7 +86,7 @@
 ### RECOMMENDED WEB RESOURCES
 
 * **Adobe Illustrator, InDesign & Photoshop**
- * http://nyu.edu/lynda (Free courtesy of NYU)
+ *  http://nyu.edu/lynda (Free courtesy of NYU)
  * http://design.tutsplus.com
 
 
