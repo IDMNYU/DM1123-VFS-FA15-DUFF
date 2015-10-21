@@ -25,7 +25,7 @@
   <li><a href="assigned_creator_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
      <li>Josef Muller-Brockman: Ali & Alexis</li>
-    <li>Aleksander Rodchenko: Bobby & Dylan</li>
+    <li>Aleksander Rodchenko: Bobby</li>
     <li>Tibor Kalman: Stefon & Anna</li>
     <li>Barbara Krueger: Jamie & Jaiwei</li>
     </ul>
