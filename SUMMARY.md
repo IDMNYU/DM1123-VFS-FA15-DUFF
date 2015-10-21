@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
 * [Schedule](dm1123_schedule_overview.md)
-   * [Week 1 Detail Sep 3](test.md)
    * [Week 2 Detail Sep 8](week_2_detail_sep_8.md)
    * [Week 3 Detail Sep 15](week_3_detail_sep_15.md)
    * [Week 4 Detail Sep 22](week_4_detail_sep_22.md)
