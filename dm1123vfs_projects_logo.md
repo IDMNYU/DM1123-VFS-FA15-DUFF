@@ -37,7 +37,7 @@ Select at least 2 different versions, and create
 * Post **a pdf** of your final logo to the vfs slack channel
 * Also post your final logo to your tumblr or wordpress
  * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
- * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well on tumblr or wordpress.
+ * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well. Post all iterations on tumblr or wordpress.
 
 
 
