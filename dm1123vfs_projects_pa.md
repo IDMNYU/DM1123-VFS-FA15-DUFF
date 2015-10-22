@@ -16,7 +16,7 @@ Post on your class website in grayscale (includes black and white)
 * The versions should NOT be for different applied states such as 1 for an album cover, tattoos, and yet another for a T-Shirt design.
 
 #### PA 2nd Draft    
-Post on your class website in grayscale (includes black and white) or color
+Post on your class website in color
 * Choose the version selected in the previous class crit.
 * Do at least 3 different variations of the selected PA. 
 * Each variation in letter dimensions (8 1/2 x 11)
