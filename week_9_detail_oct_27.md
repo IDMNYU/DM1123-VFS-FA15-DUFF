@@ -48,7 +48,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
-  <li><strong><a href="dm1123vfs_projects_pa.md">Project: PHYSICAL APP</a></strong></li>
+  <li><strong><a href="dm1123vfs_projects_pa.md">Project: Physical Application</a></strong></li>
   <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
