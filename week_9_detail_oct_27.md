@@ -24,7 +24,7 @@
 <li><strong>Logo Rubric</strong> (handout in class and pinned on slack)</li>
 <li><strong>Logo Self Reflection</strong> (handout in class and pinned on slack)</li></td>
   <td valign="top" width="48%"><ul>
-  <li><strong>PHYSICAL APP 1st Draft (The Entire Class)</strong></li>
+  <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 1st Draft (The Entire Class)</a></strong></li>
 <li><a href="assigned_creator_show_and_tells.md">Show and Tells</a></li>
 <ul>
 <li>Peter Saville (Kyleel & Anna)</li> 
@@ -48,7 +48,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
-  <li><strong><a href="dm1123vfs_projects_logo.md">Project: Logo</a></strong></li>
+  <li><strong><a href="dm1123vfs_projects_pa.md">Project: PHYSICAL APP</a></strong></li>
   <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
