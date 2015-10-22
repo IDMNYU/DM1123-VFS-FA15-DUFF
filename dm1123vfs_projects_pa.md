@@ -32,7 +32,7 @@ Suggested Service Bureaus for Physical Application
 
 Suggested Service Bureaus for Posters
 * NYU SoE Library
-* http://www.nyu.edu/its/ams/
+* [NYU's LaGuardia Studio, located at 545 LaGuardia Place](https://www.nyu.edu/life/resources-and-services/information-technology/locations-and-facilities/laguardia-studio.html)
 
 DO NOT BE LATE WITH YOUR FINAL PHYSICAL APPLICATION
 
