@@ -54,8 +54,8 @@
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</td>
-        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft</strong> (Half of Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</td>
+        <td valign="top"><a href="week_9_detail_oct_27.md">Oct 27<br><strong>MIDTERM: LOGO FINAL</strong> (The Entire Class)<br>Logo Rubric<br>Logo Self Reflection</a></td>
+        <td valign="top"><a href="week_9_detail_oct_27.md">Oct 29<br><strong>PHYSICAL APP 1st Draft</strong> (Half of Class)<br>Show and Tells: Peter Saville, Chip Kidd, and Art Chantry</a></td>
     </tr>
     <tr>
         <td>10</td>
