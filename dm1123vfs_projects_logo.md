@@ -30,7 +30,7 @@
 * One logo per letter dimensions ( 8 1/2 x 11) with a big version (and a tiny version (a little bigger than postage size) in the corner)
 
 ## LOGO Final  
-* **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version (and a tiny version (a little bigger than postage size) in the corner)
+**Final logo** in color and letter dimensions (8 1/2 x 11) with a big version (and a tiny version (a little bigger than postage size) in the corner)
 * Post **a pdf** of your final logo to the vfs slack channel
 * Also post your final logo to your tumblr or wordpress
  * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
