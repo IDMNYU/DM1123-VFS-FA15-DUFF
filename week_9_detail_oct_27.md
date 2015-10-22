@@ -25,7 +25,7 @@
 <li><strong>Logo Self Reflection</strong> (handout in class and pinned on slack)</li></td>
   <td valign="top" width="48%"><ul>
   <li><strong>PHYSICAL APP 1st Draft (The Entire Class)</strong></li>
-<li><a href="">Show and Tells</a></li>
+<li><a href="assigned_creator_show_and_tells.md">Show and Tells</a></li>
 <ul>
 <li>Peter Saville (Kyleel & Anna)</li> 
 <li>Chip Kidd (Cadence & Jun)</li>
