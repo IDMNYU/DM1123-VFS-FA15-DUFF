@@ -22,6 +22,5 @@
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Tickets to Leave](tickets_to_leave.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [Week 7 Oct 13](week_7_detail_oct_13.md)
 * [Week 8 Oct 20](week_8_detail_oct_20.md)
 
