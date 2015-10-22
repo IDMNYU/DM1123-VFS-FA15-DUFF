@@ -15,7 +15,7 @@
     <tr>
         <td>1</td>
         <td>Sep 1<br></td>
-        <td><a href="test.md">Sep 3<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+        <td><a href="week_1_detail_sep_3.md">Sep 3<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
