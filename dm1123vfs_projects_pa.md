@@ -11,7 +11,7 @@ Post on your class website in grayscale (includes black and white)
 * Select 1 applied state for your one and true final logo
 * For that selected applied state only, do at least 3 different directions 
 * In other words, if you are going to do a cd cover, all 3 different versions should be for a cd cover. If you are doing a business card, all 3 different versions should be for a business card. 
-* Each version in letter dimensions (8 1/2 x 11)
+* One version each within letter-sized dimensions (8 1/2 x 11)
 * Select only 1 applied state (yes, this is repeated.)
 * The versions should NOT be for different applied states such as 1 for an album cover, tattoos, and yet another for a T-Shirt design.
 
