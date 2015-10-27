@@ -7,15 +7,17 @@
 Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
 #### INTERFACE Wireframes    
-Post on your class website in grayscale (includes black and white) with interface-wireframes category. 
-* Create a wireframe of your interface in letter dimensions (8 1/2 x 11). 
+Post on tumblr or wordpress in grayscale 
+
+* Create a wireframe of your interface within letter dimensions (8 1/2 x 11). 
   * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) with interface-wireframes category. 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
 
-#### INTERFACE High-Fidelity Wireframes  
+#### INTERFACE High-Fidelity Wireframes 
+Post on tumblr or wordpress in color
+
 * Create 3 different versions of your interface as high fidelity wireframes in color
-* Post on your class website with an inteface-hifi-wireframe
 
 #### INTERFACE Final: High-Fidelity Prototype 
 * Refine selection
