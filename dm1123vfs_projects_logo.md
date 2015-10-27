@@ -34,8 +34,8 @@ Select at least 2 different versions, and create
 
 ## LOGO Final  
 **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version (and a tiny version (a little bigger than postage size) in the corner)
-* Post **a pdf** of your final logo to the vfs slack channel. In Illustrator, File->*Save as*->File Format-> pdf.
-* Please name your file as firstnameinitiallastname_vfs_fa14_final_logo.pdf (i.e. dduff_vfs_fa14_final_logo.pdf)
+* Please name your file as firstnameinitiallastname_vfs_fa15_final_logo.pdf (i.e. dduff_vfs_fa15_final_logo.pdf)
+* * Post **a pdf** of your final logo to the vfs slack channel. In Illustrator, File->*Save as*->File Format-> pdf.
 * Also post your final logo to your tumblr or wordpress
  * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
  * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well. Post all iterations on tumblr or wordpress.
