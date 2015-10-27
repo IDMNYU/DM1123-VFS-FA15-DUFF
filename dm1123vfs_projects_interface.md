@@ -20,9 +20,10 @@ Post on tumblr or wordpress in color
 * Create 3 different versions of your interface as high fidelity wireframes in color
 
 #### INTERFACE Final: High-Fidelity Prototype 
+Post on tumblr or wordpress in color
 * Refine selection
-* Post a clickable prototype on your class website with an inteface-final category. 
-  * Consult the readings and/or VFS <a href="../dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
+* Post a clickable prototype 
+  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
 
 
 
