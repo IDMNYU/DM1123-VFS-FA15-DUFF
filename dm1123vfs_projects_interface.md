@@ -6,11 +6,11 @@
 # PROJECT: INTERFACE
 Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
-#### INTERFACE Wireframes    
-Post on tumblr or wordpress in grayscale 
+#### INTERFACE Wireframe    
+Post on tumblr or wordpress in grayscale (includes black and white)
 
 * Create a wireframe of your interface within letter dimensions (8 1/2 x 11). 
-  * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) with interface-wireframes category. 
+  * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
 
