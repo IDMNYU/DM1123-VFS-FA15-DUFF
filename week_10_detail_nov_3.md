@@ -16,7 +16,7 @@
 <tr>
   <td valign="top">10</td>
   <td valign="top"><strong>Nov 3</strong></td>
-  <td valign="top"><strong>Nov 3</strong></td>
+  <td valign="top"><strong>Nov 5</strong></td>
 </tr>
 <!-- class -->
 <tr>
