@@ -64,8 +64,8 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong></td>
-        <td>Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong></strong></td>
+        <td>Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong> (Half of Class)</td>
+        <td>Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>12</td>
