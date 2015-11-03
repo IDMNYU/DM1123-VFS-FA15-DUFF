@@ -34,6 +34,10 @@
 </ul>
 <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong></li></td>
   <td valign="top" width="48%"><ul>
+  <li><a href="dm1123vfs_show_and_tells.md">Logo Show and Tells</a></li>
+  <ul>
+  <li>Macy's (Alexis & Ali)</li>
+  </ul>
   <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 2nd Draft (Other Half of Class)</a></strong></li>
 </td>
 </tr>
