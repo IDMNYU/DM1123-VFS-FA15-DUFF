@@ -38,7 +38,7 @@
   <ul>
   <li>Macy's (Alexis & Ali)</li>
   </ul>
-  <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 2nd Draft (Other Half of Class)</a></strong></li>
+  <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 2nd Draft (Rest of Class)</a></strong></li>
 </td>
 </tr>
 
