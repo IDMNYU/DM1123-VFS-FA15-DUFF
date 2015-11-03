@@ -64,13 +64,13 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong> (Half of Class)</td>
-        <td>Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong> (Other Half of Class)</td>
+        <td>Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
+        <td>Nov 12<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 17<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
-        <td>Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Nov 17<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Half of Class)</td>
+        <td>Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>13</td>
