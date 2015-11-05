@@ -22,10 +22,6 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><ul>
-  <li><a href="dm1123vfs_show_and_tells.md">Logo Show and Tells</a></li>
-  <ul>
-  <li>AT&T (Kyleel & Jun)</li>
-  </ul>
   <li><a href="assigned_creator_show_and_tells.md">Show and Tells</a></li>
 <ul>
 <li>Peter Saville (Kyleel & Anna)</li> 
@@ -36,6 +32,7 @@
   <td valign="top" width="48%"><ul>
   <li><a href="dm1123vfs_show_and_tells.md">Logo Show and Tells</a></li>
   <ul>
+  <li>AT&T (Kyleel & Jun)</li>
   <li>Macy's (Alexis & Ali)</li>
   </ul>
   <li><strong><a href="dm1123vfs_projects_pa.md">PHYSICAL APP 2nd Draft (Rest of Class)</a></strong></li>
