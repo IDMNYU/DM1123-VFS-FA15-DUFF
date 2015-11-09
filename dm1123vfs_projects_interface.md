@@ -9,7 +9,7 @@ Using a combination of Illustrator and/or Photoshop, apply your brand to a digit
 * UXPin's Guide to Wireframing is also pinned on Slack.
  
 
-#### INTERFACE Wireframe 1st Draft    
+#### INTERFACE Wireframes 1st Draft    
 Post on tumblr or wordpress in grayscale (includes black and white)
 
 * Create a wireframe of your interface within letter dimensions (8 1/2 x 11). 
@@ -19,7 +19,7 @@ Post on tumblr or wordpress in grayscale (includes black and white)
 * Use the aspect ratio of your interface.
 
 
-#### INTERFACE Wireframe 2nd Draft    
+#### INTERFACE Wireframes 2nd Draft    
 Post on tumblr or wordpress in grayscale (includes black and white)
 
 * Iterate your wireframes based on feedback and discussion of Wireframe 1st Draft.
@@ -33,9 +33,9 @@ Post on tumblr or wordpress in color
 
 #### INTERFACE Final: High-Fidelity Prototype 
 Post on tumblr or wordpress in color
-* Refine selection
-* Post a clickable prototype 
-  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
+* Refine selection by iterating your high-fidelity wireframe
+* Post a clickable prototype
+  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">recommended resources</a> page for applications to use for prototypes.
 
 
 
