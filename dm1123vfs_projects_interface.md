@@ -25,7 +25,7 @@ Post on tumblr or wordpress in grayscale (includes black and white)
 * Iterate your wireframes based on feedback and discussion of Wireframe 1st Draft.
 
 
-#### INTERFACE High-Fidelity Wireframes 
+#### INTERFACE High-Fidelity Prototype 1st Draft 
 Post on tumblr or wordpress in color
 
 * Create 3 different versions of your interface as high fidelity wireframes in color
