@@ -8,18 +8,28 @@ Using a combination of Illustrator and/or Photoshop, apply your brand to a digit
 * Consult **Sitemaps, Wireframes/Schematics, and Clickable Prototypes** under [Recommended Resources](dm1123_vfs_recommended_resources.md).
 * UXPin's Guide to Wireframing is also pinned on Slack.
  
-#### INTERFACE Wireframe    
+
+#### INTERFACE Wireframe 1st Draft    
 Post on tumblr or wordpress in grayscale (includes black and white)
 
 * Create a wireframe of your interface within letter dimensions (8 1/2 x 11). 
   * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
+* Use the aspect ratio of your interface.
+
+
+#### INTERFACE Wireframe 2nd Draft    
+Post on tumblr or wordpress in grayscale (includes black and white)
+
+* Iterate your wireframes based on feedback and discussion of Wireframe 1st Draft.
+
 
 #### INTERFACE High-Fidelity Wireframes 
 Post on tumblr or wordpress in color
 
 * Create 3 different versions of your interface as high fidelity wireframes in color
+
 
 #### INTERFACE Final: High-Fidelity Prototype 
 Post on tumblr or wordpress in color
