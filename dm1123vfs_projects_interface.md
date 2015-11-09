@@ -5,7 +5,9 @@
 
 # PROJECT: INTERFACE
 Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
-
+* Consult **Sitemaps, Wireframes/Schematics, and Clickable Prototypes** under [Recommended Resources](dm1123_vfs_recommended_resources.md).
+* UXPin's Guide to Wireframing is also pinned on Slack.
+ 
 #### INTERFACE Wireframe    
 Post on tumblr or wordpress in grayscale (includes black and white)
 
