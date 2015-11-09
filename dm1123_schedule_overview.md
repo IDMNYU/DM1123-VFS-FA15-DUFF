@@ -60,12 +60,12 @@
     <tr>
         <td>10</td>
         <td>Nov 3<br><i>Last Day to Withdraw</i><br><a href="week_10_detail_nov_3.md"><strong>PHYSICAL APP 2nd Draft</strong> (Half of Class)</a></td>
-        <td>Nov 5<br><a href="week_10_detail_nov_3.md"><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
+        <td><a href="week_10_detail_nov_3.md">Nov 5<br><strong>PHYSICAL APP 2nd Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
-        <td>Nov 12<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
+        <td><a href="week_11_detail_nov_10.md">Nov 10<br><strong>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</a></td>
+        <td><a href="week_11_detail_nov_10.md">Nov 12<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
     </tr>
     <tr>
         <td>12</td>
