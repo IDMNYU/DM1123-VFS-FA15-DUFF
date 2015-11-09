@@ -9,7 +9,7 @@
 * It could be your own, a friend’s, or a family member’s. 
 * It could also be a redesign of an existing personal logo. If so, please post the original logo as well
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
-* Consult [Recommended Resources]()
+* Consult [Recommended Resources](dm1123_vfs_recommended_resources.md)
  
 ##LOGO 1st Draft 
 Explore creating <a href="http://www.logodesignsource.com/types.html" target="_blank">icons/symbols, logotypes, and/or combination logos</a>. Also, consider creating haptic / digital combos.
