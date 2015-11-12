@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 17<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Half of Class)</td>
-        <td>Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Other Half of Class)</td>
+        <td><a href="week_12_detail_nov_17.md">Nov 17<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Half of Class)</a></td>
+        <td><a href="week_12_detail_nov_17.md">Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong> (Other Half of Class)</a></td>
     </tr>
     <tr>
         <td>13</td>
