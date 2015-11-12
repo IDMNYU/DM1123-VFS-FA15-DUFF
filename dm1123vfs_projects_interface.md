@@ -25,17 +25,18 @@ Post on tumblr or wordpress in grayscale (includes black and white)
 * Iterate your wireframes based on feedback and discussion of Wireframe 1st Draft.
 
 
-#### INTERFACE High-Fidelity Prototype 1st Draft 
+#### INTERFACE Visual Design 1st Draft 
 Post on tumblr or wordpress in color
 
-* Create 3 different versions of your interface as high fidelity wireframes in color
+* Create 3 different versions of your interface as high fidelity wireframes in color using real photos, text, etc.
 
 
 #### INTERFACE Final: High-Fidelity Prototype 
 Post on tumblr or wordpress in color
-* Refine selection by iterating your high-fidelity wireframe
-* Post a clickable prototype
+* Refine selection by iterating your high-fidelity wireframe.
+* Post a clickable prototype for websites, apps, or kiosks.
   * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">recommended resources</a> page for applications to use for prototypes.
+* If you're creating graphics for your youtube, instagram, or any other social media channel, make it live on your channel. 
 
 
 
