@@ -84,8 +84,8 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 8<br><strong>PDF or BOOK 2nd DRAFT</strong> (Half of Class)</td>
+        <td>Dec 10<br><strong>PDF or BOOK 2nd DRAFT</strong> (Other Half of Class)</td>
     </tr>
     <tr>
         <td>16</td>
