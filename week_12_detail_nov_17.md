@@ -23,10 +23,12 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><ul>
+  <li>Course Evaluations</li>
   <li><strong><a href="dm1123vfs_projects_interface.md">INTERFACE High-Fidelity Prototype 1st Draft</a></strong> (Half of Class)</li>
   </ul>
 </td>
   <td valign="top" width="48%"><ul>
+  <li>Guest Speaker: Nijel Taylor,  a Designer in <a href="http://lippincott.com/" target="_blank">Lippincott</a>’s New York office.
   <li><strong><a href="dm1123vfs_projects_interface.md">INTERFACE High-Fidelity Prototype 1st Draft</a></strong> (Other Half of Class)</li>
 </td>
 </tr>
