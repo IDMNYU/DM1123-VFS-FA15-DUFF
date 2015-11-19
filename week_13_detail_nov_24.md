@@ -47,7 +47,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
-  <li><strong><a href="dm1123vfs_projects_interface.md">Project: Interface</a></strong></li>
+  <li><strong><a href="dm1123vfs_projects_pa.md">Project: Physical Application</a></strong></li> (If your physical application project is not printed by now, you may be in trouble.)
   <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
