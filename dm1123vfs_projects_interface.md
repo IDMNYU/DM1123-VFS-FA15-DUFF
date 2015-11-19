@@ -35,7 +35,7 @@ Post on tumblr or wordpress in color
 Post on tumblr or wordpress in color
 * Refine selection by iterating your high-fidelity wireframe.
 * Post a clickable prototype for websites, apps, or kiosks.
-  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">recommended resources</a> page for applications to use for prototypes.
+  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">recommended resources</a> page for applications to use for prototypes. You can also just use keynote or powerpoint.
 * If you're creating graphics for your youtube, instagram, or any other social media channel, make it live on your channel. 
 
 
