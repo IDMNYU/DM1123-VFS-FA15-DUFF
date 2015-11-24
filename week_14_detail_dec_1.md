@@ -22,7 +22,7 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><ul>
-  <li>Course Evaluations</li>
+
   <li><strong><a href="dm1123vfs_projects_pa.md">Physical App Final</a></strong> (All Students)</li>
   </ul>
 </td>
