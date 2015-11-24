@@ -79,8 +79,8 @@
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 3<br><strong>PDF or BOOK 1st DRAFT</strong></td>
+        <td><a href="week_14_detail_dec_1.md">Dec 1<br><strong>PHYSICAL APP FINAL</strong></a></td>
+        <td><a href="week_14_detail_dec_1.md">Dec 3<br><strong>PDF or BOOK 1st DRAFT</strong></a></td>
     </tr>
     <tr>
         <td>15</td>
