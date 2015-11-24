@@ -37,6 +37,8 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
+  <li>Physical Application Rubric (Handed out in class and pinned on slack)</li>
+  <li>Interface Rubric (Handed out in class and pinned on slack)</li>
  <li><strong><a href="dm1123vfs_projects_pa.md">Project: Physical Application</a></strong> (If your physical application project is not printed by now, you may be in trouble.)</li>
   <Li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
