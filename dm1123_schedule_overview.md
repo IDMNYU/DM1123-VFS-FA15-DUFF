@@ -74,8 +74,8 @@
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 24<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
-        <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
+        <td><a href="week_13_detail_nov_24.md">Nov 24<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></a></td>
+        <td><a href="week_13_detail_nov_24.md">Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></a></td>
     </tr>
     <tr>
         <td>14</td>
