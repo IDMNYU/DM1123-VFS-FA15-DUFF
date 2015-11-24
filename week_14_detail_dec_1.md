@@ -24,6 +24,7 @@
   <td valign="top" width="48%"><ul>
 
   <li><strong><a href="dm1123vfs_projects_pa.md">Physical App Final</a></strong> (All Students)</li>
+  <li>Adobe Indesign (Demo)</li>
   </ul>
 </td>
   <td valign="top" width="48%"><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">PDF or Book 1st Draft</a></strong>
