@@ -22,7 +22,9 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><ul>
-
+  <li>Turn in Interface Rubric (Handed out in class and pinned on slack)</li>
+  <li>Turn in Physical Application Rubric (Handed out in class and pinned on slack)</li>
+  
   <li><strong><a href="dm1123vfs_projects_pa.md">Physical App Final</a></strong> (All Students)</li>
   <li>Adobe Indesign (Demo)</li>
   </ul>
