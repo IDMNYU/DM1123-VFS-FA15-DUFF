@@ -40,11 +40,11 @@ or using Preview (Drag and Drop with thumbnail panel)
 
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
-See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT (EXCEPT do not include assessments in the book. Direct message me the assessments on Slack as pdfs).
+See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT (EXCEPT do not include assessments in the book. Direct message deangela the assessments on Slack as pdfs).
 
 I highly suggest blurb
 * http://www.blurb.com/create/book/pricing#color-pocket ($4.95 plus shipping)
-* Shipping is 7 to 10 business days
+* **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
 
 Cover and spine label:
 * Your first and last name
