@@ -99,6 +99,6 @@ Dec 16
 
 
 
-Dec 16-18
+Dec 15-18
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
 * **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
