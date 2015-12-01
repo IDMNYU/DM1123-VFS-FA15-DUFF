@@ -85,7 +85,9 @@ Make sure that images are included if they are not embedded within illustrator.
 
 ## FINAL SELF ASSESSMENT
 
-*As a pdf, direct message to deangela on Slack.*
+* *As a pdf, direct message to deangela on Slack.*
+* Please name your file as firstnameinitiallastname_vfs_fa15_final_assessment.pdf (i.e. dduff_vfs_fa15_final_assessment.pdf) 
+* Also make sure that you  have a header within the actual document.  i.e. Your Name / Fall 2015 /  Visual Foundation Studio / Final Assessment.
 
 Of Self
 
