@@ -115,5 +115,7 @@ Of The Course
 ## LETTER TO NEXT COHORT
 
 *As a pdf, direct message to deangela on Slack.*
+* Please name your file as firstnameinitiallastname_vfs_fa15_letter.pdf (i.e. dduff_vfs_fa15_letter.pdf) 
+* Also make sure that you  have a header within the actual document.  i.e. Your Name / Fall 2015 /  Visual Foundation Studio / Letter to Next Cohort.
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
