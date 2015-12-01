@@ -84,7 +84,7 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 8<br><strong>PDF or BOOK 2nd DRAFT</strong> (Half of Class)</td>
+        <td>Dec 8<br><strong>PDF or BOOK 2nd DRAFT</strong> (Half of Class; Students printing extra credit book should present on this day.)</td>
         <td>Dec 10<br><strong>PDF or BOOK 2nd DRAFT</strong> (Other Half of Class)</td>
     </tr>
     <tr>
