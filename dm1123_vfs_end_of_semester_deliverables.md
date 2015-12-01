@@ -5,6 +5,8 @@
 # END OF SEMESTER DELIVERABLES
 
 ## END OF SEMESTER PDF
+Direct message the dropbox link or google drive folder link to deangela on slack.
+
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
 PDF Cover:
