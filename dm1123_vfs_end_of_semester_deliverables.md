@@ -15,7 +15,7 @@ PDF Cover:
 * The Name of Your Project
 * Visual Foundation Studio 2014 or VFS 2014 
 
-Before each assignment, a header that labels each project (See below.)
+Before each assignment, a header that labels each project. If you have additional drafts beyond these listed include those as well. (See below.)
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
@@ -57,19 +57,19 @@ Cover (and optional spine label):
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
 
-If you want to create a dropbox account and have not already done so, let me know. Both you and I can get additional free space if I invite you.
+If you want to create a dropbox account and do not already have one, let me know. Both you and I can get additional free space if I invite you.
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
 Create a dropbox link (NOT folder, see above) or google drive folder that contains the following: 
 
-Folders:
+Folders (if you have additional drafts beyond these listed include those as well):
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
 * 04 Interface–Wireframes
-* 05 Interface–High Fidelity Prototypes
-* 06 Interface–Final
+* 05 Interface–Visual Design
+* 06 Interface–High Fidelity Prototype
 * 07 Physical Application–1st draft
 * 08 Physical Application–2nd draft
 * 09 Physical Application–Final
