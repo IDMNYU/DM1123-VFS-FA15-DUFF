@@ -43,10 +43,11 @@ This should be compiled using Adobe InDesign. The visual foundation principles w
 See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT (EXCEPT do not include assessments in the book. Direct message deangela the assessments on Slack as pdfs).
 
 I highly suggest blurb
-* http://www.blurb.com/create/book/pricing#color-pocket ($4.95 plus shipping)
+* [Blurb Pricing](http://www.blurb.com/create/book/pricing#color-pocket) ($4.95 plus shipping)
+* I recommend the [Magazine format](http://www.blurb.com/pricing#magazines). It's the cheapest.
 * **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
 
-Cover and spine label:
+Cover (and optional spine label):
 * Your first and last name
 * Your Logo
 * The Name of Your Project
