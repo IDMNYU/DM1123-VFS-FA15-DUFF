@@ -32,12 +32,10 @@
   <td valign="top" width="48%">
   <ul>
   <li><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">PDF or Book 1st Draft</a></strong></li>
-  <li>6pm EXTRA CREDIT: The art and science of color: four thousand years of experimentation and discovery through the collections of the Metropolitan Museum of Art
+  <li><strong>EXTRA CREDIT: 6pm-7pm Pfizer Auditorium The art and science of color: four thousand years of experimentation and discovery through the collections of the Metropolitan Museum of Art</li>
 
 <ul>
 <li>Dr. Marco Leona, Metropolitan Museum of Art (MOMA)</li>
-<li>Thursday, December 3, 2015, 6-7pm</li>
-<li>Pfizer Auditorium</li>
 <li>You need to make sure I see you at the end of the lecture to get extra credit.</li>
 </ul>
 </li>
