@@ -101,4 +101,4 @@ Dec 16
 
 Dec 15-18
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
-* **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
+* **<a href="dm1123_vfs_end_of_semester_deliverables.md">Dropbox Link, Letter to Next Cohort & Final Assessment</a>**
