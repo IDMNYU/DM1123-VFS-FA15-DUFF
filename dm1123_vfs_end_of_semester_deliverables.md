@@ -37,6 +37,9 @@ Combine multiple pdfs using Adobe Acrobat Pro:
 FILE > CREATE > COMBINE INTO A SINGLE PDF
 or using Preview (Drag and Drop with thumbnail panel)
 
+### First and Second Drafts
+*Direct message to deangela as a pdf*
+* Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
 
 ## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
 
@@ -55,6 +58,10 @@ Cover (and optional spine label):
 * The Name of Your Project
 * Visual Foundation Studio 2015 or VFS 2015
 
+### First and Second Drafts
+*Direct message to deangela as a pdf*
+* Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
+* 
 ## END OF SEMESTER DROPBOX LINK or GOOGLE FOLDER REQUIREMENTS  
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
@@ -84,6 +91,9 @@ All assignments should be native illustrator files (.ai), photoshop files (.psd)
 Make sure that any type in illustrator has been converted to outlines or include the typeface(s) in the folder(s) instead.
 
 Make sure that images are included if they are not embedded within illustrator.
+
+### First and Second Drafts
+*Direct message to deangela as a pdf*
 
 ## FINAL SELF ASSESSMENT
 
