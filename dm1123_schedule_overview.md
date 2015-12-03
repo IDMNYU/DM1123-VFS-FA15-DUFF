@@ -80,7 +80,7 @@
     <tr>
         <td>14</td>
         <td><a href="week_14_detail_dec_1.md">Dec 1<br><strong>PHYSICAL APP FINAL</strong></a></td>
-        <td><a href="week_14_detail_dec_1.md">Dec 3<br><strong>PDF or BOOK 1st DRAFT</strong></a></td>
+        <td><a href="week_14_detail_dec_1.md">Dec 3<br><strong>PDF or BOOK 1st DRAFT<br>EXTRA CREDIT: 6pm-7pm Pfizer Auditorium</strong> The art and science of color: four thousand years of experimentation and discovery through the collections of the Metropolitan Museum of Art</a></td>
     </tr>
     <tr>
         <td>15</td>
