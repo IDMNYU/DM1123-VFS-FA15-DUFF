@@ -61,7 +61,7 @@ Cover (and optional spine label):
 ### First and Second Drafts
 *Direct message to deangela as a pdf*
 * Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
-* 
+
 ## END OF SEMESTER DROPBOX LINK or GOOGLE FOLDER REQUIREMENTS  
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
