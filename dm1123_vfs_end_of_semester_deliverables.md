@@ -5,9 +5,14 @@
 # END OF SEMESTER DELIVERABLES
 
 ## END OF SEMESTER PDF
-### First and Second Drafts
-*Direct message to deangela as a pdf*
-* Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
+Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
+#### First and Second Drafts
+* *Direct message to deangela as a pdf*
+
+#### Final Version
+* If pdf, **post on vfs channel on slack** for everyone to see and download in the class
+* If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book.
+
 
 
 This should be compiled using **Adobe InDesign**. The visual foundation principles we have been learning all semester should be present.    
@@ -89,9 +94,6 @@ All assignments should be native illustrator files (.ai), photoshop files (.psd)
 Make sure that any type in illustrator has been converted to outlines or include the typeface(s) in the folder(s) instead.
 
 Make sure that images are included if they are not embedded within illustrator.
-
-### First and Second Drafts
-*Direct message to deangela as a pdf*
 
 ## FINAL SELF ASSESSMENT
 
