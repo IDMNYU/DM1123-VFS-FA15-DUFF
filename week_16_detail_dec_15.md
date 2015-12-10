@@ -16,7 +16,7 @@
 <tr>
   <td valign="top">16</td>
   <td valign="top"><strong>Dec 15</strong></td>
-  <td valign="top"><strong></strong></td>
+  <td valign="top"><strong>Dec 15 at 6:30pm-Dec 18</strong></td>
 </tr>
 <!-- class -->
 <tr>
@@ -29,7 +29,7 @@
 </td>
   <td valign="top" width="48%">
   <ul>
-  <li>PDF or BOOK 2nd DRAFT (Other Half of Class)</li>
+  <li>One on Ones</li>
   </ul>
 </td>
 </tr>
@@ -49,7 +49,7 @@
   </ul></ul></td>
   <td valign="top">
   <ul>
-  <li><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">PDF or Book 2nd Draft</a></strong></li>
+  <li><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong></li>
   <li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   </ul></td>
 </tr>
