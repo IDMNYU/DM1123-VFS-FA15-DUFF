@@ -24,7 +24,7 @@
   <td valign="top" width="48%">
   <ul>
   <li>Schedule one on ones</li>
-  <li>PDF or BOOK FINAL (All Students)</li>
+  <li>FINAL PDF or BOOK (All Students)</li>
   </ul>
 </td>
   <td valign="top" width="48%">
@@ -40,7 +40,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">PDF or Book FINAL</a></strong></li>
+ <li><strong><a href="dm1123_vfs_end_of_semester_deliverables.md">FINAL PDF or Book</a></strong></li>
   <Li><strong><a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
