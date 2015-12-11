@@ -29,7 +29,7 @@
   <td valign="top" width="48%">
   <ul>
   <li>PDF or BOOK 2nd DRAFT (Other Half of Class)</li>
-  <li>Guest speaker: <a href="http://www.jimmy-simpson.com">Jimmy Simpson</a></li>
+  <li>Guest speaker: <strong><a href="http://www.jimmy-simpson.com">Jimmy Simpson</a></strong></li>
   </ul>
 </td>
 </tr>
