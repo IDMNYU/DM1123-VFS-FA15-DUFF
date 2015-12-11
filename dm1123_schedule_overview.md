@@ -89,7 +89,7 @@
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 15<br><strong>Last Day of Class<br>Final PDF or BOOK</strong></td>
+        <td><a href="week_16_detail_dec_15.md">Dec 15<br><strong>Last Day of Class<br>Final PDF or BOOK</strong></a></td>
         <td></td>
     </tr>
 </table>
