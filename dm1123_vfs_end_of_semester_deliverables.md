@@ -11,7 +11,7 @@ Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduf
 
 #### Final Version
 * If pdf, **post on vfs channel on slack** for everyone to see and download in the class
-* If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book.
+* If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the vfs channel on slack.
 
 
 
