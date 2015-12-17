@@ -42,7 +42,9 @@
   * Grid Systems: Principles of Organizing Type by Kimberly Elam
   * Geometry of Design: Studies in Proportion and Composition by Kimberly Elam
 
-
+* **Design Process / Design Business**
+  * How to be a Graphic Designer without Losing your Soul by Adrian Shaughnessy
+  
 * **Image**
   * photo idea index by Jim Krause
 
