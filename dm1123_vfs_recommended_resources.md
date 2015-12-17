@@ -44,7 +44,7 @@
 
 
 * **Design Process / Design Business**
-  * How to be a Graphic Designer without Losing your Soul by Adrian Shaughnessy *(I recommend the first edition to the second edition)**=
+  * How to be a Graphic Designer without Losing your Soul by Adrian Shaughnessy *(I recommend the first edition to the second edition)*
   
 
 * **Image**
