@@ -139,7 +139,6 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     
 
 * **Typography**
-  * Mac OS application: Font Book 
   * Thinking with Type – http://thinkingwithtype.com
   * Designing with Type – http://designingwithtype.com
   * http://practicaltypography.com
