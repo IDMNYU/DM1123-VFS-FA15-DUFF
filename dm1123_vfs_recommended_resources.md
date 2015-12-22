@@ -141,8 +141,8 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
   * Designing with Type – http://designingwithtype.com
-  * http://practicaltypography.com
- * http://tobiasahlin.com/typesource/
+  * Practical Typography - http://practicaltypography.com
+ * Google Web Font inspiration in HTML & CSS -http://tobiasahlin.com/typesource/
   * Fount - http://fount.artequalswork.com
   * Wordmark - http://wordmark.it
   * What the Font - https://www.myfonts.com/WhatTheFont/
