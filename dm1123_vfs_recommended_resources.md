@@ -5,6 +5,9 @@
 
 # RECOMMENDED RESOURCES
 
+### RECOMMENDED APPS
+  * Mac OS application: Font Book
+   
 ### RECOMMENDED MAGAZINES
 * Eye Magazine
 * HOW Magazine
@@ -139,6 +142,8 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * Mac OS application: Font Book 
   * Thinking with Type – http://thinkingwithtype.com
   * Designing with Type – http://designingwithtype.com
+  * http://practicaltypography.com
+ * http://tobiasahlin.com/typesource/
   * Fount - http://fount.artequalswork.com
   * Wordmark - http://wordmark.it
   * What the Font - https://www.myfonts.com/WhatTheFont/
