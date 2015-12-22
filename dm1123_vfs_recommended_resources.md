@@ -6,7 +6,7 @@
 # RECOMMENDED RESOURCES
 
 ### RECOMMENDED APPS
-  * Mac OS application: Font Book
+* Mac OS application: Font Book
    
 ### RECOMMENDED MAGAZINES
 * Eye Magazine
