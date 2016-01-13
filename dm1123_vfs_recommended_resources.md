@@ -104,7 +104,7 @@
   * [ColorZilla’s Gradient Editor](http://www.colorzilla.com/gradient-editor)
   * [0to255](http://0to255.com)
   * [Color Meaning](http://color-wheel-pro.com/color-meaning.html)
-  * [Color Inspiration](http://designshack.net/articles/graphics/awesome-and-unusual-places-to-steal-color-palettes-from)
+  * [Awesome and unusual places to steal color palettes from](http://designshack.net/articles/graphics/awesome-and-unusual-places-to-steal-color-palettes-from)
 
 
 * **RGB vs. CMYK**
