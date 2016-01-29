@@ -73,8 +73,7 @@ If you want to create a dropbox account and do not already have one, let me know
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
-Create a dropbox link (NOT folder, see above) or google drive folder that contains the following
-folders (if you have additional drafts beyond these listed include those as well):
+Create a dropbox link (NOT folder, see above) or google drive folder that contains the following folders (if you have additional drafts beyond these listed include those as well):
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
