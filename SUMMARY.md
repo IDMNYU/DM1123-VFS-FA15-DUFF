@@ -32,7 +32,6 @@
 * [Assignment: Image](dm1123_image.md)
 * [Assignment: Typefaces](dm1123_typefaces.md)
 * [Assignment: Composition and Concept](dm3193_composition_and_concept.md)
-* [End of Semester Presentation](end_of_semester_presentation.md)
 * [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 * [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [Tickets to Leave](tickets_to_leave.md)
