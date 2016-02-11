@@ -63,7 +63,7 @@
   </ul>
   </td>
   
-  <td valign="top"><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
+  <td valign="top"><p><a href="http://practicaltypography.com">http://practicaltypography.com</a></p><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a>
     <ul> 
     <li>What is leading?
     <li>What is kerning?
