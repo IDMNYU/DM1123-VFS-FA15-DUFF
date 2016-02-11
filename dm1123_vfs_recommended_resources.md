@@ -140,6 +140,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     
 
 * **Typography**
+ * Pratical Typography - http://practicaltypography.com
   * Thinking with Type – http://thinkingwithtype.com
   * Designing with Type – http://designingwithtype.com
   * Practical Typography - http://practicaltypography.com
